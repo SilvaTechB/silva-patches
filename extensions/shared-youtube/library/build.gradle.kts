@@ -5,6 +5,7 @@ plugins {
 
 android {
     namespace = "app.silva.extension"
+    buildToolsVersion = "34.0.0"
     compileSdk = 35
 
     defaultConfig {
