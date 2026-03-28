@@ -49,7 +49,19 @@ The build requires OpenJDK 17 (not GraalVM) for `jlink` compatibility with the A
 The `build.sh` script:
 1. Prepends `$JAVA_HOME/bin` to PATH (ensures JDK 17's `jlink` is used)
 2. Sets `ANDROID_HOME`
-3. Runs `./gradlew build`
+3. Runs `./gradlew build generatePatchesList`
+
+**Release**: `bash release.sh [major|minor|patch|x.y.z]`
+
+The `release.sh` script (used because GitHub Actions is disabled for this account):
+1. Bumps the version in `gradle.properties` (default: patch bump)
+2. Builds the `.mpp` and generates `patches-list.json`
+3. Creates a GitHub release with the new tag
+4. Uploads `patches-*.mpp` as the release asset
+5. Updates `patches-bundle.json` with the new download URL and version
+6. Commits and pushes all changes to `main`
+
+Example: `bash release.sh patch` → bumps 1.21.1 → 1.21.2
 
 ## Build Output
 
