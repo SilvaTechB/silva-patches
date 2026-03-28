@@ -35,9 +35,9 @@ settings {
 
 include(":patches:stub")
 
-// Include morphe-patcher as composite builds if they exist locally
+// Include silva-patcher as composite builds if they exist locally
 mapOf(
-    "morphe-patcher" to "app.morphe:morphe-patcher",
+    "silva-patcher" to "app.silva:silva-patcher",
 ).forEach { (libraryPath, libraryName) ->
     val libDir = file("../$libraryPath")
     if (libDir.exists()) {
