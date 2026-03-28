@@ -28,10 +28,10 @@ import com.android.tools.smali.dexlib2.iface.reference.MethodReference
 import com.android.tools.smali.dexlib2.immutable.ImmutableMethod
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/reddit/patches/HideNavigationButtonsPatch;"
+    "Lapp/silva/extension/reddit/patches/HideNavigationButtonsPatch;"
 
 private const val EXTENSION_HEADER_ITEM_INTERFACE =
-    "Lapp/morphe/extension/reddit/patches/HideNavigationButtonsPatch\$NavigationButtonInterface;"
+    "Lapp/silva/extension/reddit/patches/HideNavigationButtonsPatch\$NavigationButtonInterface;"
 
 @Suppress("unused")
 val hideNavigationButtonsPatch = bytecodePatch(

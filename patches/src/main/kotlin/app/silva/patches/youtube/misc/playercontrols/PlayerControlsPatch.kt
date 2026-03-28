@@ -230,7 +230,7 @@ fun injectVisibilityCheckCall(descriptor: String) {
     )
 }
 
-internal const val EXTENSION_CLASS_DESCRIPTOR = "Lapp/morphe/extension/youtube/patches/PlayerControlsPatch;"
+internal const val EXTENSION_CLASS_DESCRIPTOR = "Lapp/silva/extension/youtube/patches/PlayerControlsPatch;"
 
 private lateinit var inflateTopControlMethodRef : WeakReference<MutableMethod>
 private var inflateTopControlInsertIndex = -1

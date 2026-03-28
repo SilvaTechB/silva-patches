@@ -22,6 +22,6 @@ val forceOriginalAudioPatch = forceOriginalAudioPatch(
     },
     fixUseLocalizedAudioTrackFlag = { is_20_07_or_greater },
     mainActivityOnCreateFingerprint = YouTubeActivityOnCreateFingerprint,
-    subclassExtensionClassDescriptor = "Lapp/morphe/extension/youtube/patches/ForceOriginalAudioPatch;",
+    subclassExtensionClassDescriptor = "Lapp/silva/extension/youtube/patches/ForceOriginalAudioPatch;",
     preferenceScreen = PreferenceScreen.VIDEO,
 )

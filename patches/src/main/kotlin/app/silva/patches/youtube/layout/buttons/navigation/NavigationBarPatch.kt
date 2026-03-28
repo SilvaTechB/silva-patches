@@ -65,10 +65,10 @@ import com.android.tools.smali.dexlib2.immutable.ImmutableMethod
 import com.android.tools.smali.dexlib2.util.MethodUtil
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/patches/NavigationBarPatch;"
+    "Lapp/silva/extension/youtube/patches/NavigationBarPatch;"
 
 private const val EXTENSION_SETTING_INTERFACE =
-    "Lapp/morphe/extension/youtube/patches/NavigationBarPatch\$SettingsController;"
+    "Lapp/silva/extension/youtube/patches/NavigationBarPatch\$SettingsController;"
 
 val navigationBarPatch = bytecodePatch(
     name = "Navigation bar",

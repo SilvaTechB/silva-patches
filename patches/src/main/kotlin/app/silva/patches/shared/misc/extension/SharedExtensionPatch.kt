@@ -9,7 +9,7 @@ import com.android.tools.smali.dexlib2.iface.Method
 import java.net.URLDecoder
 import java.util.jar.JarFile
 
-internal const val EXTENSION_CLASS_DESCRIPTOR = "Lapp/morphe/extension/shared/Utils;"
+internal const val EXTENSION_CLASS_DESCRIPTOR = "Lapp/silva/extension/shared/Utils;"
 
 /**
  * A patch to extend with an extension shared with multiple patches.

@@ -17,7 +17,7 @@ import com.android.tools.smali.dexlib2.iface.instruction.ReferenceInstruction
 import com.android.tools.smali.dexlib2.iface.reference.MethodReference
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/reddit/patches/OpenLinksDirectlyPatch;"
+    "Lapp/silva/extension/reddit/patches/OpenLinksDirectlyPatch;"
 
 @Suppress("unused")
 val openLinksDirectlyPatch = bytecodePatch(

@@ -19,7 +19,7 @@ import com.android.tools.smali.dexlib2.iface.instruction.OneRegisterInstruction
 import com.android.tools.smali.dexlib2.iface.reference.MethodReference
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/patches/HideAutoplayPreviewPatch;"
+    "Lapp/silva/extension/youtube/patches/HideAutoplayPreviewPatch;"
 
 @Suppress("unused")
 val hideAutoplayPreviewPatch = bytecodePatch(

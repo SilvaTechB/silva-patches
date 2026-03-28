@@ -18,7 +18,7 @@ private const val USER_AGENT_STRING_BUILDER_APPEND_METHOD_REFERENCE =
 fun userAgentClientSpoofPatch(originalPackageName: String) = transformInstructionsPatch(
     filterMap = { classDef, _, instruction, instructionIndex ->
         filterMapInstruction35c<MethodCall>(
-            "Lapp/morphe/extension",
+            "Lapp/silva/extension",
             classDef,
             instruction,
             instructionIndex,

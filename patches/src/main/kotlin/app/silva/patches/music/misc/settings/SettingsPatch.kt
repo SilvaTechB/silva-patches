@@ -34,7 +34,7 @@ import app.silva.util.inputStreamFromBundledResource
 import app.silva.util.insertLiteralOverride
 
 private const val MUSIC_ACTIVITY_HOOK_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/music/settings/MusicActivityHook;"
+    "Lapp/silva/extension/music/settings/MusicActivityHook;"
 
 private val preferences = mutableSetOf<BasePreference>()
 

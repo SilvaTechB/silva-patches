@@ -14,7 +14,7 @@ import app.silva.patches.youtube.misc.settings.settingsPatch
 import app.silva.patches.youtube.shared.Constants.COMPATIBILITY_YOUTUBE
 import com.android.tools.smali.dexlib2.iface.instruction.OneRegisterInstruction
 
-private const val EXTENSION_CLASS_DESCRIPTOR = "Lapp/morphe/extension/youtube/patches/ChangeStartPagePatch;"
+private const val EXTENSION_CLASS_DESCRIPTOR = "Lapp/silva/extension/youtube/patches/ChangeStartPagePatch;"
 
 val changeStartPagePatch = bytecodePatch(
     name = "Change start page",

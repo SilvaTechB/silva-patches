@@ -18,7 +18,7 @@ import app.silva.patches.youtube.shared.Constants.COMPATIBILITY_YOUTUBE
 import app.silva.patches.youtube.shared.YouTubeActivityOnCreateFingerprint
 
 val spoofVideoStreamsPatch = spoofVideoStreamsPatch(
-    extensionClassDescriptor = "Lapp/morphe/extension/youtube/patches/spoof/SpoofVideoStreamsPatch;",
+    extensionClassDescriptor = "Lapp/silva/extension/youtube/patches/spoof/SpoofVideoStreamsPatch;",
     mainActivityOnCreateFingerprint = YouTubeActivityOnCreateFingerprint,
     fixMediaFetchHotConfig = {
         is_19_34_or_greater

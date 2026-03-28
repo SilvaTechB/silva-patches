@@ -14,7 +14,7 @@ import app.silva.patches.reddit.shared.Constants.COMPATIBILITY_REDDIT
 import app.silva.util.setExtensionIsPatchIncluded
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/reddit/patches/ShowViewCountPatch;"
+    "Lapp/silva/extension/reddit/patches/ShowViewCountPatch;"
 
 @Suppress("unused")
 val showViewCountPatch = bytecodePatch(

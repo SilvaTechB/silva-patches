@@ -32,7 +32,7 @@ internal var prefBackgroundAndOfflineCategoryId = -1L
     private set
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/patches/BackgroundPlaybackPatch;"
+    "Lapp/silva/extension/youtube/patches/BackgroundPlaybackPatch;"
 
 val backgroundPlaybackPatch = bytecodePatch(
     name = "Remove background playback restrictions",

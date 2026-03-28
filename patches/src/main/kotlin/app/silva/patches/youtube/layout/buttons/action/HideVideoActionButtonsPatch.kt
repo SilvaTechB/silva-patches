@@ -29,7 +29,7 @@ import app.silva.patches.youtube.video.information.videoInformationPatch
 import com.android.tools.smali.dexlib2.iface.instruction.OneRegisterInstruction
 
 private const val FILTER_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/patches/components/VideoActionButtonsFilter;"
+    "Lapp/silva/extension/youtube/patches/components/VideoActionButtonsFilter;"
 
 @Suppress("unused")
 val hideVideoActionButtonsPatch = bytecodePatch(

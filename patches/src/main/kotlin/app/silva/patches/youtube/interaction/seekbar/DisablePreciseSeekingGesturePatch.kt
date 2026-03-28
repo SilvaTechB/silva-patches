@@ -10,7 +10,7 @@ import app.silva.patches.youtube.misc.settings.PreferenceScreen
 import app.silva.patches.youtube.misc.settings.settingsPatch
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/patches/DisablePreciseSeekingGesturePatch;"
+    "Lapp/silva/extension/youtube/patches/DisablePreciseSeekingGesturePatch;"
 
 val disablePreciseSeekingGesturePatch = bytecodePatch(
     description = "Adds an option to disable precise seeking when swiping up on the seekbar.",

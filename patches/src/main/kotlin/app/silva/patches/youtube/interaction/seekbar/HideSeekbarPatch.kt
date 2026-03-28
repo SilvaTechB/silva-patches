@@ -13,7 +13,7 @@ import app.silva.patches.youtube.shared.SeekbarFingerprint
 import app.silva.patches.youtube.shared.SeekbarOnDrawFingerprint
 import app.silva.util.insertLiteralOverride
 
-private const val EXTENSION_CLASS_DESCRIPTOR = "Lapp/morphe/extension/youtube/patches/HideSeekbarPatch;"
+private const val EXTENSION_CLASS_DESCRIPTOR = "Lapp/silva/extension/youtube/patches/HideSeekbarPatch;"
 
 val hideSeekbarPatch = bytecodePatch(
     description = "Adds an option to hide the seekbar.",

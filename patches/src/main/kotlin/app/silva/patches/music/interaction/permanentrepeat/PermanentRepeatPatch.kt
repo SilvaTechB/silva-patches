@@ -11,7 +11,7 @@ import app.silva.patches.music.shared.Constants.COMPATIBILITY_YOUTUBE_MUSIC
 import app.silva.patches.shared.misc.settings.preference.SwitchPreference
 import app.silva.util.findFreeRegister
 
-private const val EXTENSION_CLASS_DESCRIPTOR = "Lapp/morphe/extension/music/patches/PermanentRepeatPatch;"
+private const val EXTENSION_CLASS_DESCRIPTOR = "Lapp/silva/extension/music/patches/PermanentRepeatPatch;"
 
 @Suppress("unused")
 val permanentRepeatPatch = bytecodePatch(

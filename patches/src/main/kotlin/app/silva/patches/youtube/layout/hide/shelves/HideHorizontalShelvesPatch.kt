@@ -17,7 +17,7 @@ import app.silva.patches.youtube.misc.navigation.navigationBarHookPatch
 import app.silva.patches.youtube.misc.playertype.playerTypeHookPatch
 
 private const val FILTER_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/patches/components/HorizontalShelvesFilter;"
+    "Lapp/silva/extension/youtube/patches/components/HorizontalShelvesFilter;"
 
 internal val hideHorizontalShelvesPatch = bytecodePatch {
     dependsOn(

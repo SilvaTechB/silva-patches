@@ -35,7 +35,7 @@ private val headerDrawableNames = arrayOf(
 )
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/music/patches/ChangeHeaderPatch;"
+    "Lapp/silva/extension/music/patches/ChangeHeaderPatch;"
 
 private val changeHeaderBytecodePatch = bytecodePatch {
     dependsOn(resourceMappingPatch)

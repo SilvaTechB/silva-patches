@@ -34,7 +34,7 @@ private val playbackSpeedButtonResourcePatch = resourcePatch {
 }
 
 private const val SPEED_BUTTON_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/videoplayer/PlaybackSpeedDialogButton;"
+    "Lapp/silva/extension/youtube/videoplayer/PlaybackSpeedDialogButton;"
 
 val playbackSpeedButtonPatch = bytecodePatch(
     description = "Adds the option to display playback speed dialog button in the video player.",

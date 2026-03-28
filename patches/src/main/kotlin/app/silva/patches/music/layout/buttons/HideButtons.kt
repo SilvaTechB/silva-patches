@@ -29,7 +29,7 @@ internal var searchButton = -1L
 internal var topBarMenuItemImageView = -1L
     private set
 
-private const val EXTENSION_CLASS_DESCRIPTOR = "Lapp/morphe/extension/music/patches/HideButtonsPatch;"
+private const val EXTENSION_CLASS_DESCRIPTOR = "Lapp/silva/extension/music/patches/HideButtonsPatch;"
 
 @Suppress("unused")
 val hideButtons = bytecodePatch(

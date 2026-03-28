@@ -45,7 +45,7 @@ import org.w3c.dom.Element
 import org.w3c.dom.Node
 
 internal const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/shared/patches/GmsCoreSupportPatch;"
+    "Lapp/silva/extension/shared/patches/GmsCoreSupportPatch;"
 
 /**
  * Old vendor id for maximum backwards compatibility.

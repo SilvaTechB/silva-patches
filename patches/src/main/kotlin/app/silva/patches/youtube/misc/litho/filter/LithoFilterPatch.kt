@@ -46,9 +46,9 @@ import com.android.tools.smali.dexlib2.iface.reference.MethodReference
 import com.android.tools.smali.dexlib2.immutable.ImmutableMethod
 import java.lang.ref.WeakReference
 
-internal const val EXTENSION_CLASS_DESCRIPTOR = "Lapp/morphe/extension/youtube/patches/components/LithoFilterPatch;"
+internal const val EXTENSION_CLASS_DESCRIPTOR = "Lapp/silva/extension/youtube/patches/components/LithoFilterPatch;"
 
-internal const val EXTENSION_FILER_ARRAY_DESCRIPTOR = "[Lapp/morphe/extension/youtube/patches/components/Filter;"
+internal const val EXTENSION_FILER_ARRAY_DESCRIPTOR = "[Lapp/silva/extension/youtube/patches/components/Filter;"
 
 // Registers used in extension helperMethod.
 private const val REGISTER_FILTER_CLASS = 0

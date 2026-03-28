@@ -34,7 +34,7 @@ import com.android.tools.smali.dexlib2.iface.instruction.OneRegisterInstruction
 import com.android.tools.smali.dexlib2.iface.instruction.TwoRegisterInstruction
 import org.w3c.dom.Element
 
-private const val EXTENSION_CLASS_DESCRIPTOR = "Lapp/morphe/extension/youtube/patches/theme/ThemePatch;"
+private const val EXTENSION_CLASS_DESCRIPTOR = "Lapp/silva/extension/youtube/patches/theme/ThemePatch;"
 
 val themePatch = baseThemePatch(
     extensionClassDescriptor = EXTENSION_CLASS_DESCRIPTOR,

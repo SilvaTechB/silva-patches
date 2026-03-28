@@ -31,7 +31,7 @@ import com.android.tools.smali.dexlib2.iface.reference.MethodReference
 import com.android.tools.smali.dexlib2.immutable.ImmutableMethod
 import com.android.tools.smali.dexlib2.immutable.ImmutableMethodParameter
 
-private const val EXTENSION_CLASS_DESCRIPTOR = "Lapp/morphe/extension/youtube/patches/ShortsAutoplayPatch;"
+private const val EXTENSION_CLASS_DESCRIPTOR = "Lapp/silva/extension/youtube/patches/ShortsAutoplayPatch;"
 
 val shortsAutoplayPatch = bytecodePatch(
     name = "Shorts autoplay",

@@ -55,7 +55,7 @@ internal object DefaultOverflowOverlayOnClickFingerprint : Fingerprint(
 
 internal object HidePremiumVideoQualityGetArrayFingerprint : Fingerprint(
     // Cannot use patch declaration of class because this is starts_with matching of the synthetic method.
-    definingClass = "Lapp/morphe/extension/youtube/patches/playback/quality/HidePremiumVideoQualityPatch",
+    definingClass = "Lapp/silva/extension/youtube/patches/playback/quality/HidePremiumVideoQualityPatch",
     name = "apply",
     accessFlags = listOf(AccessFlags.PUBLIC, AccessFlags.FINAL),
     returnType = "Ljava/lang/Object;",

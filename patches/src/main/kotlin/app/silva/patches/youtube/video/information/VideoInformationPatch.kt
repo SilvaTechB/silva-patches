@@ -59,13 +59,13 @@ import com.android.tools.smali.dexlib2.util.MethodUtil
 import java.lang.ref.WeakReference
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/patches/VideoInformation;"
+    "Lapp/silva/extension/youtube/patches/VideoInformation;"
 private const val EXTENSION_PLAYER_INTERFACE =
-    "Lapp/morphe/extension/youtube/patches/VideoInformation\$PlaybackController;"
+    "Lapp/silva/extension/youtube/patches/VideoInformation\$PlaybackController;"
 private const val EXTENSION_VIDEO_QUALITY_MENU_INTERFACE =
-    "Lapp/morphe/extension/youtube/patches/VideoInformation\$VideoQualityMenuInterface;"
+    "Lapp/silva/extension/youtube/patches/VideoInformation\$VideoQualityMenuInterface;"
 internal const val EXTENSION_VIDEO_QUALITY_INTERFACE =
-    "Lapp/morphe/extension/youtube/patches/VideoInformation\$VideoQualityInterface;"
+    "Lapp/silva/extension/youtube/patches/VideoInformation\$VideoQualityInterface;"
 
 private lateinit var playerInitMethodRef : WeakReference<MutableMethod>
 private var playerInitInsertIndex = -1

@@ -89,7 +89,7 @@ private val miniplayerResourcePatch = resourcePatch {
     }
 }
 
-private const val EXTENSION_CLASS_DESCRIPTOR = "Lapp/morphe/extension/youtube/patches/MiniplayerPatch;"
+private const val EXTENSION_CLASS_DESCRIPTOR = "Lapp/silva/extension/youtube/patches/MiniplayerPatch;"
 
 @Suppress("unused")
 val miniplayerPatch = bytecodePatch(

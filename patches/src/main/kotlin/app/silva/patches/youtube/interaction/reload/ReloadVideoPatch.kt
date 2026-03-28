@@ -56,13 +56,13 @@ private val reloadVideoResourcePatch = resourcePatch {
 }
 
 private const val EXTENSION_BUTTON_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/videoplayer/ReloadVideoButton;"
+    "Lapp/silva/extension/youtube/videoplayer/ReloadVideoButton;"
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/patches/ReloadVideoPatch;"
+    "Lapp/silva/extension/youtube/patches/ReloadVideoPatch;"
 
 private const val EXTENSION_PLAYER_INTERFACE =
-    "Lapp/morphe/extension/youtube/patches/ReloadVideoPatch\$PlayerInterface;"
+    "Lapp/silva/extension/youtube/patches/ReloadVideoPatch\$PlayerInterface;"
 
 @Suppress("unused")
 val reloadVideoPatch = bytecodePatch(

@@ -23,7 +23,7 @@ import com.android.tools.smali.dexlib2.iface.instruction.TwoRegisterInstruction
 import com.android.tools.smali.dexlib2.iface.reference.FieldReference
 
 private const val EXTENSION_CLASS_DESCRIPTOR_PREFIX =
-    "Lapp/morphe/extension/youtube/patches/DisableHapticFeedbackPatch"
+    "Lapp/silva/extension/youtube/patches/DisableHapticFeedbackPatch"
 
 private const val EXTENSION_CLASS_DESCRIPTOR = "$EXTENSION_CLASS_DESCRIPTOR_PREFIX;"
 

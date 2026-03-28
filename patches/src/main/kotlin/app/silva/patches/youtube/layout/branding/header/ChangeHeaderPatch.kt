@@ -36,7 +36,7 @@ private val targetResourceDirectoryNames = mapOf(
 
 private val logoResourceNames = arrayOf("silva_header")
 
-private const val EXTENSION_CLASS_DESCRIPTOR = "Lapp/morphe/extension/youtube/patches/ChangeHeaderPatch;"
+private const val EXTENSION_CLASS_DESCRIPTOR = "Lapp/silva/extension/youtube/patches/ChangeHeaderPatch;"
 
 private val changeHeaderBytecodePatch = bytecodePatch {
     dependsOn(resourceMappingPatch)

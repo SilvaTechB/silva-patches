@@ -1,7 +1,7 @@
 {
-  "created_at": "2026-03-28T20:05:28",
-  "description": "## [1.21.2](https://github.com/SilvaTechB/silva-patches/compare/v1.21.1...v1.21.2) (2026-03-28)\n\n### Bug Fixes\n\n* Fix patch bundle URL to point to correct repository",
-  "download_url": "https://github.com/SilvaTechB/silva-patches/releases/download/v1.21.2/patches-1.21.2.mpp",
+  "created_at": "2026-03-28 20:29:55",
+  "description": "## [1.21.3](https://github.com/SilvaTechB/silva-patches/compare/v1.21.2...v1.21.3) (2026-03-28)\n\n### Bug Fixes\n\n* Fix extension class namespace from app/morphe to app/silva in all patches",
+  "download_url": "https://github.com/SilvaTechB/silva-patches/releases/download/v1.21.3/patches-1.21.3.mpp",
   "signature_download_url": "",
-  "version": "1.21.2"
+  "version": "1.21.3"
 }

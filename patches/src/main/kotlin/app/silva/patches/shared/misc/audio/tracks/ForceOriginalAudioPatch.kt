@@ -20,7 +20,7 @@ import com.android.tools.smali.dexlib2.iface.instruction.OneRegisterInstruction
 import com.android.tools.smali.dexlib2.immutable.ImmutableField
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/shared/patches/ForceOriginalAudioPatch;"
+    "Lapp/silva/extension/shared/patches/ForceOriginalAudioPatch;"
 
 /**
  * Patch shared with YouTube and YT Music.

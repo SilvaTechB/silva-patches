@@ -30,7 +30,7 @@ import app.silva.patches.youtube.video.speed.settingsMenuVideoSpeedGroup
 import com.android.tools.smali.dexlib2.iface.instruction.ReferenceInstruction
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/patches/playback/speed/RememberPlaybackSpeedPatch;"
+    "Lapp/silva/extension/youtube/patches/playback/speed/RememberPlaybackSpeedPatch;"
 
 internal val rememberPlaybackSpeedPatch = bytecodePatch {
     dependsOn(

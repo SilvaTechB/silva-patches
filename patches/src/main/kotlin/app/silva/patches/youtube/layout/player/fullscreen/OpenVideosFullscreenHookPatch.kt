@@ -12,7 +12,7 @@ import app.silva.util.insertLiteralOverride
 import com.android.tools.smali.dexlib2.iface.instruction.OneRegisterInstruction
 
 internal const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/patches/OpenVideosFullscreenHookPatch;"
+    "Lapp/silva/extension/youtube/patches/OpenVideosFullscreenHookPatch;"
 
 /**
  * Used by both [openVideosFullscreenPatch] and [openShortsInRegularPlayerPatch].

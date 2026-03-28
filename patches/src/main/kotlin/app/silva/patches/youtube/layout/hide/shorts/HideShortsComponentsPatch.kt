@@ -155,7 +155,7 @@ private val hideShortsComponentsResourcePatch = resourcePatch {
     }
 }
 
-private const val FILTER_CLASS_DESCRIPTOR = "Lapp/morphe/extension/youtube/patches/components/ShortsFilter;"
+private const val FILTER_CLASS_DESCRIPTOR = "Lapp/silva/extension/youtube/patches/components/ShortsFilter;"
 
 @Suppress("unused")
 val hideShortsComponentsPatch = bytecodePatch(

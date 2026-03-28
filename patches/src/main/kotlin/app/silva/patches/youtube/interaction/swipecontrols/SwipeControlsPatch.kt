@@ -25,7 +25,7 @@ import app.silva.util.traverseClassHierarchy
 import com.android.tools.smali.dexlib2.AccessFlags
 import com.android.tools.smali.dexlib2.immutable.ImmutableMethod
 
-internal const val EXTENSION_CLASS_DESCRIPTOR = "Lapp/morphe/extension/youtube/swipecontrols/SwipeControlsHostActivity;"
+internal const val EXTENSION_CLASS_DESCRIPTOR = "Lapp/silva/extension/youtube/swipecontrols/SwipeControlsHostActivity;"
 
 private val swipeControlsResourcePatch = resourcePatch {
     dependsOn(

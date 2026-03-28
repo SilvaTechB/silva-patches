@@ -31,7 +31,7 @@ val openLinksExternallyPatch = bytecodePatch(
                 mutableMethod.addInstructions(
                     intentStringIndex + 1,
                     """
-                        invoke-static {v$register}, Lapp/morphe/extension/youtube/patches/OpenLinksExternallyPatch;->getIntent(Ljava/lang/String;)Ljava/lang/String;
+                        invoke-static {v$register}, Lapp/silva/extension/youtube/patches/OpenLinksExternallyPatch;->getIntent(Ljava/lang/String;)Ljava/lang/String;
                         move-result-object v$register
                     """,
                 )

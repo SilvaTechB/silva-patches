@@ -18,7 +18,7 @@ import com.android.tools.smali.dexlib2.iface.reference.FieldReference
 import com.android.tools.smali.dexlib2.iface.reference.MethodReference
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/patches/HideEndScreenSuggestedVideoPatch;"
+    "Lapp/silva/extension/youtube/patches/HideEndScreenSuggestedVideoPatch;"
 
 @Suppress("unused")
 val hideEndScreenSuggestedVideoPatch = bytecodePatch(

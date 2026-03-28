@@ -7,7 +7,7 @@ import app.silva.patches.youtube.misc.extension.sharedExtensionPatch
 import com.android.tools.smali.dexlib2.iface.instruction.OneRegisterInstruction
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/patches/AccountCredentialsInvalidTextPatch;"
+    "Lapp/silva/extension/youtube/patches/AccountCredentialsInvalidTextPatch;"
 
 internal val accountCredentialsInvalidTextPatch = bytecodePatch {
 

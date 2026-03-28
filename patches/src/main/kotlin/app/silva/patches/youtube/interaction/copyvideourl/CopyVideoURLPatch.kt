@@ -53,7 +53,7 @@ val copyVideoURLPatch = bytecodePatch(
     compatibleWith(COMPATIBILITY_YOUTUBE)
 
     execute {
-        val extensionPlayerPackage = "Lapp/morphe/extension/youtube/videoplayer"
+        val extensionPlayerPackage = "Lapp/silva/extension/youtube/videoplayer"
         val buttonsDescriptors = listOf(
             "$extensionPlayerPackage/CopyVideoURLButton;",
             "$extensionPlayerPackage/CopyVideoURLTimestampButton;",

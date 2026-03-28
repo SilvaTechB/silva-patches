@@ -22,6 +22,6 @@ val forceOriginalAudioPatch = forceOriginalAudioPatch(
     },
     fixUseLocalizedAudioTrackFlag = { is_8_05_or_greater },
     mainActivityOnCreateFingerprint = MusicActivityOnCreateFingerprint,
-    subclassExtensionClassDescriptor = "Lapp/morphe/extension/music/patches/ForceOriginalAudioPatch;",
+    subclassExtensionClassDescriptor = "Lapp/silva/extension/music/patches/ForceOriginalAudioPatch;",
     preferenceScreen = PreferenceScreen.MISC,
 )

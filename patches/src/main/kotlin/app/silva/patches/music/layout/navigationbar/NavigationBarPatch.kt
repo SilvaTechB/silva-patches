@@ -15,7 +15,7 @@ import com.android.tools.smali.dexlib2.iface.instruction.FiveRegisterInstruction
 import com.android.tools.smali.dexlib2.iface.instruction.OneRegisterInstruction
 import com.android.tools.smali.dexlib2.iface.instruction.ReferenceInstruction
 
-private const val EXTENSION_CLASS_DESCRIPTOR = "Lapp/morphe/extension/music/patches/NavigationBarPatch;"
+private const val EXTENSION_CLASS_DESCRIPTOR = "Lapp/silva/extension/music/patches/NavigationBarPatch;"
 
 @Suppress("unused")
 val navigationBarPatch = bytecodePatch(

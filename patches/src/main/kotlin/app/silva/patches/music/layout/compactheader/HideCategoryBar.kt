@@ -15,7 +15,7 @@ import com.android.tools.smali.dexlib2.iface.instruction.OneRegisterInstruction
 internal var chipCloud = -1L
     private set
 
-private const val EXTENSION_CLASS_DESCRIPTOR = "Lapp/morphe/extension/music/patches/HideCategoryBarPatch;"
+private const val EXTENSION_CLASS_DESCRIPTOR = "Lapp/silva/extension/music/patches/HideCategoryBarPatch;"
 
 @Suppress("unused")
 val hideCategoryBar = bytecodePatch(

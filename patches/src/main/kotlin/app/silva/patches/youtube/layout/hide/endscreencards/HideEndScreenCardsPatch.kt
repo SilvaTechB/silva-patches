@@ -44,7 +44,7 @@ private val hideEndScreenCardsResourcePatch = resourcePatch {
 }
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/patches/HideEndScreenCardsPatch;"
+    "Lapp/silva/extension/youtube/patches/HideEndScreenCardsPatch;"
 
 @Suppress("unused")
 val hideEndScreenCardsPatch = bytecodePatch(

@@ -15,7 +15,7 @@ import app.silva.patches.youtube.misc.litho.lazily.hookTreeNodeResult
 import app.silva.patches.youtube.misc.litho.lazily.lazilyConvertedElementHookPatch
 
 internal const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/patches/LayoutReloadObserverPatch;"
+    "Lapp/silva/extension/youtube/patches/LayoutReloadObserverPatch;"
 
 val layoutReloadObserverPatch = bytecodePatch(
     description = "Hooks a method to detect in the extension when the RecyclerView at the bottom of the player is redrawn.",

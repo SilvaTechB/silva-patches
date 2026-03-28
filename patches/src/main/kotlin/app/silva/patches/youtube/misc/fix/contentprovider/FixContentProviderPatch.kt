@@ -7,7 +7,7 @@ import app.silva.patches.youtube.misc.extension.sharedExtensionPatch
 import com.android.tools.smali.dexlib2.iface.instruction.FiveRegisterInstruction
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/patches/FixContentProviderPatch;"
+    "Lapp/silva/extension/youtube/patches/FixContentProviderPatch;"
 
 /**
  * Fixes crashing for some users with a beta release where the YouTube content provider uses null map values.

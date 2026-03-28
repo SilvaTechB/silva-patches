@@ -24,7 +24,7 @@ import com.android.tools.smali.dexlib2.iface.instruction.ReferenceInstruction
 import com.android.tools.smali.dexlib2.iface.reference.MethodReference
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/patches/FixBackToExitGesturePatch;"
+    "Lapp/silva/extension/youtube/patches/FixBackToExitGesturePatch;"
 
 internal val fixBackToExitGesturePatch = bytecodePatch(
     description = "Fixes the swipe back to exit gesture."

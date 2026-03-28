@@ -51,10 +51,10 @@ import com.android.tools.smali.dexlib2.immutable.ImmutableField
 import com.android.tools.smali.dexlib2.immutable.ImmutableMethod
 
 private const val FILTER_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/patches/components/PlaybackSpeedMenuFilter;"
+    "Lapp/silva/extension/youtube/patches/components/PlaybackSpeedMenuFilter;"
 
 internal const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/patches/playback/speed/CustomPlaybackSpeedPatch;"
+    "Lapp/silva/extension/youtube/patches/playback/speed/CustomPlaybackSpeedPatch;"
 
 internal val customPlaybackSpeedPatch = bytecodePatch(
     description = "Adds custom playback speed options.",

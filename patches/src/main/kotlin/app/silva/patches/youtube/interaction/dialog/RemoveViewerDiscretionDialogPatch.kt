@@ -16,7 +16,7 @@ import com.android.tools.smali.dexlib2.AccessFlags
 import com.android.tools.smali.dexlib2.iface.instruction.FiveRegisterInstruction
 import com.android.tools.smali.dexlib2.iface.instruction.OneRegisterInstruction
 
-private const val EXTENSION_CLASS_DESCRIPTOR = "Lapp/morphe/extension/youtube/patches/RemoveViewerDiscretionDialogPatch;"
+private const val EXTENSION_CLASS_DESCRIPTOR = "Lapp/silva/extension/youtube/patches/RemoveViewerDiscretionDialogPatch;"
 
 val removeViewerDiscretionDialogPatch = bytecodePatch(
     name = "Remove viewer discretion dialog",

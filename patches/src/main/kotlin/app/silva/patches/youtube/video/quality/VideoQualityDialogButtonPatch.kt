@@ -30,7 +30,7 @@ private val videoQualityButtonResourcePatch = resourcePatch {
 }
 
 private const val QUALITY_BUTTON_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/videoplayer/VideoQualityDialogButton;"
+    "Lapp/silva/extension/youtube/videoplayer/VideoQualityDialogButton;"
 
 val videoQualityDialogButtonPatch = bytecodePatch(
     description = "Adds the option to display video quality dialog button in the video player.",

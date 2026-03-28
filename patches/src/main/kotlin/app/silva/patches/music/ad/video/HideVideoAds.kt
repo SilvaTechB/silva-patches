@@ -12,7 +12,7 @@ import app.silva.util.getReference
 import com.android.tools.smali.dexlib2.iface.instruction.ReferenceInstruction
 import com.android.tools.smali.dexlib2.iface.reference.MethodReference
 
-private const val EXTENSION_CLASS_DESCRIPTOR = "Lapp/morphe/extension/music/patches/HideVideoAdsPatch;"
+private const val EXTENSION_CLASS_DESCRIPTOR = "Lapp/silva/extension/music/patches/HideVideoAdsPatch;"
 
 @Suppress("unused")
 val hideVideoAdsPatch = bytecodePatch(

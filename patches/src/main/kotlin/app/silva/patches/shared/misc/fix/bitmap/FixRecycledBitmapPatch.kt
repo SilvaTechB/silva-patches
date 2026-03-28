@@ -12,7 +12,7 @@ import app.silva.patches.all.misc.transformation.filterMapInstruction35c
 import app.silva.patches.all.misc.transformation.transformInstructionsPatch
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/shared/patches/FixRecycledBitmapPatch;"
+    "Lapp/silva/extension/shared/patches/FixRecycledBitmapPatch;"
 
 @Suppress("unused")
 private enum class MethodCall(
@@ -32,7 +32,7 @@ private enum class MethodCall(
 val fixRecycledBitmapPatch = transformInstructionsPatch(
     filterMap = { classDef, _, instruction, instructionIndex ->
         filterMapInstruction35c<MethodCall>(
-            "Lapp/morphe/extension",
+            "Lapp/silva/extension",
             classDef,
             instruction,
             instructionIndex,

@@ -16,7 +16,7 @@ import com.android.tools.smali.dexlib2.Opcode
 import java.util.logging.Logger
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/patches/DisableDoubleTapActionsPatch;"
+    "Lapp/silva/extension/youtube/patches/DisableDoubleTapActionsPatch;"
 
 @Suppress("unused")
 val disableDoubleTapActionsPatch = bytecodePatch(

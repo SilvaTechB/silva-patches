@@ -19,7 +19,7 @@ import app.silva.util.getFreeRegisterProvider
 import com.android.tools.smali.dexlib2.iface.instruction.OneRegisterInstruction
 
 internal const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/patches/LazilyConvertedElementPatch;"
+    "Lapp/silva/extension/youtube/patches/LazilyConvertedElementPatch;"
 
 private lateinit var lazilyConvertedElementLoadedMethod: MutableMethod
 

@@ -12,7 +12,7 @@ import app.silva.patches.youtube.misc.settings.settingsPatch
 import app.silva.patches.youtube.shared.Constants.COMPATIBILITY_YOUTUBE
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/patches/HideRelatedVideoOverlayPatch;"
+    "Lapp/silva/extension/youtube/patches/HideRelatedVideoOverlayPatch;"
 
 @Suppress("unused")
 val hideRelatedVideoOverlayPatch = bytecodePatch(

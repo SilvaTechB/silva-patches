@@ -44,7 +44,7 @@ internal val exitFullscreenPatch = bytecodePatch(
     // other patches that declare same constant name with internal visibility.
     @Suppress("LocalVariableName")
     val EXTENSION_CLASS_DESCRIPTOR =
-        "Lapp/morphe/extension/youtube/patches/ExitFullscreenPatch;"
+        "Lapp/silva/extension/youtube/patches/ExitFullscreenPatch;"
 
     execute {
         PreferenceScreen.PLAYER.addPreferences(

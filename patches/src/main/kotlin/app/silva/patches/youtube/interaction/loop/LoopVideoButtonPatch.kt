@@ -32,7 +32,7 @@ private val loopVideoButtonResourcePatch = resourcePatch {
 }
 
 private const val LOOP_VIDEO_BUTTON_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/videoplayer/LoopVideoButton;"
+    "Lapp/silva/extension/youtube/videoplayer/LoopVideoButton;"
 
 internal val loopVideoButtonPatch = bytecodePatch(
     description = "Adds the option to display loop video button in the video player.",

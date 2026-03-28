@@ -61,7 +61,7 @@ private val USER_CUSTOM_ADAPTIVE_FILE_NAMES = arrayOf(
 private const val USER_CUSTOM_MONOCHROME_FILE_NAME = "${LAUNCHER_ADAPTIVE_MONOCHROME_PREFIX}_$CUSTOM_USER_ICON_STYLE_NAME.xml"
 private const val USER_CUSTOM_NOTIFICATION_ICON_FILE_NAME = "${NOTIFICATION_ICON_NAME}_$CUSTOM_USER_ICON_STYLE_NAME.xml"
 
-internal const val EXTENSION_CLASS_DESCRIPTOR = "Lapp/morphe/extension/shared/patches/CustomBrandingPatch;"
+internal const val EXTENSION_CLASS_DESCRIPTOR = "Lapp/silva/extension/shared/patches/CustomBrandingPatch;"
 
 /**
  * Shared custom branding patch for YouTube and YT Music.

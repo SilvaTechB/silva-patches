@@ -17,7 +17,7 @@ import com.android.tools.smali.dexlib2.Opcode
 import com.android.tools.smali.dexlib2.iface.instruction.OneRegisterInstruction
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/reddit/patches/DisableModernHomePatch;"
+    "Lapp/silva/extension/reddit/patches/DisableModernHomePatch;"
 
 @Suppress("unused")
 val disableModernHomePatch = bytecodePatch(

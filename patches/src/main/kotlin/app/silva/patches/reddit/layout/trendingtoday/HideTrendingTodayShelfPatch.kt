@@ -17,7 +17,7 @@ import app.silva.patches.reddit.shared.Constants.COMPATIBILITY_REDDIT
 import app.silva.util.setExtensionIsPatchIncluded
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/reddit/patches/HideTrendingTodayShelfPatch;"
+    "Lapp/silva/extension/reddit/patches/HideTrendingTodayShelfPatch;"
 
 @Suppress("unused")
 val hideTrendingTodayShelfPatch = bytecodePatch(

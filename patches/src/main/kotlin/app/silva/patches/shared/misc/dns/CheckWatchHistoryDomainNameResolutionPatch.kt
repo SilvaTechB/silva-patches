@@ -7,7 +7,7 @@ import app.morphe.patcher.patch.BytecodePatchContext
 import app.morphe.patcher.patch.bytecodePatch
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/shared/patches/CheckWatchHistoryDomainNameResolutionPatch;"
+    "Lapp/silva/extension/shared/patches/CheckWatchHistoryDomainNameResolutionPatch;"
 
 /**
  * Patch shared with YouTube and YT Music.

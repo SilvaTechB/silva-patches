@@ -51,9 +51,9 @@ private val downloadsResourcePatch = resourcePatch {
     }
 }
 
-private const val EXTENSION_CLASS_DESCRIPTOR = "Lapp/morphe/extension/youtube/patches/DownloadsPatch;"
+private const val EXTENSION_CLASS_DESCRIPTOR = "Lapp/silva/extension/youtube/patches/DownloadsPatch;"
 
-internal const val BUTTON_DESCRIPTOR = "Lapp/morphe/extension/youtube/videoplayer/ExternalDownloadButton;"
+internal const val BUTTON_DESCRIPTOR = "Lapp/silva/extension/youtube/videoplayer/ExternalDownloadButton;"
 
 @Suppress("unused")
 val downloadsPatch = bytecodePatch(

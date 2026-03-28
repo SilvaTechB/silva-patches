@@ -36,7 +36,7 @@ import com.android.tools.smali.dexlib2.immutable.ImmutableMethod
 import com.android.tools.smali.dexlib2.immutable.ImmutableMethodParameter
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/patches/HideRelatedVideosPatch;"
+    "Lapp/silva/extension/youtube/patches/HideRelatedVideosPatch;"
 
 @Suppress("unused")
 val hideRelatedVideosPatch = bytecodePatch(

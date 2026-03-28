@@ -65,15 +65,15 @@ import com.android.tools.smali.dexlib2.immutable.ImmutableMethod
 import com.android.tools.smali.dexlib2.immutable.ImmutableMethodParameter
 
 private const val LAYOUT_COMPONENTS_FILTER_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/patches/components/LayoutComponentsFilter;"
+    "Lapp/silva/extension/youtube/patches/components/LayoutComponentsFilter;"
 private const val DESCRIPTION_COMPONENTS_FILTER_CLASS_NAME =
-    "Lapp/morphe/extension/youtube/patches/components/DescriptionComponentsFilter;"
+    "Lapp/silva/extension/youtube/patches/components/DescriptionComponentsFilter;"
 private const val COMMENTS_FILTER_CLASS_NAME =
-    "Lapp/morphe/extension/youtube/patches/components/CommentsFilter;"
+    "Lapp/silva/extension/youtube/patches/components/CommentsFilter;"
 private const val CUSTOM_FILTER_CLASS_NAME =
-    "Lapp/morphe/extension/youtube/patches/components/CustomFilter;"
+    "Lapp/silva/extension/youtube/patches/components/CustomFilter;"
 private const val KEYWORD_FILTER_CLASS_NAME =
-    "Lapp/morphe/extension/youtube/patches/components/KeywordContentFilter;"
+    "Lapp/silva/extension/youtube/patches/components/KeywordContentFilter;"
 
 val hideLayoutComponentsPatch = bytecodePatch(
     name = "Hide layout components",

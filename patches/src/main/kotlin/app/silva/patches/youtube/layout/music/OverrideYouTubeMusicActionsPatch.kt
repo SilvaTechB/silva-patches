@@ -24,7 +24,7 @@ import com.android.tools.smali.dexlib2.iface.instruction.ReferenceInstruction
 import com.android.tools.smali.dexlib2.iface.instruction.RegisterRangeInstruction
 import com.android.tools.smali.dexlib2.iface.reference.MethodReference
 
-private const val EXTENSION_CLASS_DESCRIPTOR = "Lapp/morphe/extension/youtube/patches/OverrideYouTubeMusicActionsPatch;"
+private const val EXTENSION_CLASS_DESCRIPTOR = "Lapp/silva/extension/youtube/patches/OverrideYouTubeMusicActionsPatch;"
 
 private fun overrideYouTubeMusicManifestPatch() = resourcePatch{
     compatibleWith(COMPATIBILITY_YOUTUBE)

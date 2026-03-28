@@ -32,7 +32,7 @@ import com.android.tools.smali.dexlib2.iface.instruction.FiveRegisterInstruction
 import org.w3c.dom.Element
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/music/patches/MiniplayerPreviousNextButtonsPatch;"
+    "Lapp/silva/extension/music/patches/MiniplayerPreviousNextButtonsPatch;"
 
 private const val IMAGE_VIEW_TAG =
     "com.google.android.libraries.youtube.common.ui.TouchImageView"

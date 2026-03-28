@@ -16,7 +16,7 @@ import app.silva.util.cloneMutable
 import app.silva.util.cloneMutableAndPreserveParameters
 import app.silva.util.copyResources
 
-private const val EXTENSION_CLASS_DESCRIPTOR = "Lapp/morphe/extension/shared/patches/EnableDebuggingPatch;"
+private const val EXTENSION_CLASS_DESCRIPTOR = "Lapp/silva/extension/shared/patches/EnableDebuggingPatch;"
 
 /**
  * Patch shared with YouTube and YT Music.

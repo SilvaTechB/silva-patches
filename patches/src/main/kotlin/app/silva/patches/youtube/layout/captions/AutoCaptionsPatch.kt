@@ -24,7 +24,7 @@ import app.silva.patches.youtube.video.information.videoInformationPatch
 import com.android.tools.smali.dexlib2.iface.instruction.OneRegisterInstruction
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/patches/AutoCaptionsPatch;"
+    "Lapp/silva/extension/youtube/patches/AutoCaptionsPatch;"
 
 internal val autoCaptionsPatch = bytecodePatch(
     description = "Adds an option to disable captions from being automatically enabled.",

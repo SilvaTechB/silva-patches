@@ -10,7 +10,7 @@ import com.android.tools.smali.dexlib2.iface.instruction.ReferenceInstruction
 import com.android.tools.smali.dexlib2.iface.instruction.TwoRegisterInstruction
 
 private const val EXTENSION_PLAYER_CONTROLS_VISIBILITY_HOOK_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/patches/PlayerControlsVisibilityHookPatch;"
+    "Lapp/silva/extension/youtube/patches/PlayerControlsVisibilityHookPatch;"
 
 val playerControlsOverlayVisibilityPatch = bytecodePatch {
     dependsOn(sharedExtensionPatch)

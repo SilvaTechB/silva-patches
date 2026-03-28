@@ -12,7 +12,7 @@ import app.silva.patches.youtube.shared.Constants.COMPATIBILITY_YOUTUBE
 import com.android.tools.smali.dexlib2.iface.instruction.OneRegisterInstruction
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/patches/CustomPlayerOverlayOpacityPatch;"
+    "Lapp/silva/extension/youtube/patches/CustomPlayerOverlayOpacityPatch;"
 
 @Suppress("unused")
 val customPlayerOverlayOpacityPatch = bytecodePatch(

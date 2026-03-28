@@ -14,7 +14,7 @@ import com.android.tools.smali.dexlib2.iface.instruction.ReferenceInstruction
 import com.android.tools.smali.dexlib2.iface.instruction.TwoRegisterInstruction
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/patches/playback/quality/PrioritizeVideoQualityPatch;"
+    "Lapp/silva/extension/youtube/patches/playback/quality/PrioritizeVideoQualityPatch;"
 
 internal val prioritizeVideoQualityPatch = bytecodePatch {
     dependsOn(

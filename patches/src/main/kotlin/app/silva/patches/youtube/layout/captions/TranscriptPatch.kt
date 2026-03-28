@@ -11,7 +11,7 @@ import app.silva.patches.youtube.misc.playservice.versionCheckPatch
 import app.silva.patches.youtube.misc.settings.settingsPatch
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/patches/TranscriptPatch;"
+    "Lapp/silva/extension/youtube/patches/TranscriptPatch;"
 
 internal val transcriptPatch = bytecodePatch(
     description = "Add an option to fix an issue where transcript is unavailable due to a precondition check failure.",

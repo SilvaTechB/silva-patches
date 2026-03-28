@@ -14,7 +14,7 @@ import com.android.tools.smali.dexlib2.iface.reference.FieldReference
 import kotlin.properties.Delegates
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/shared/EngagementPanel;"
+    "Lapp/silva/extension/youtube/shared/EngagementPanel;"
 
 var panelControllerMethod: MutableMethod by Delegates.notNull()
     private set

@@ -18,10 +18,10 @@ import com.android.tools.smali.dexlib2.builder.MutableMethodImplementation
 import com.android.tools.smali.dexlib2.immutable.ImmutableMethod
 
 internal const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/reddit/patches/HideSidebarComponentsPatch;"
+    "Lapp/silva/extension/reddit/patches/HideSidebarComponentsPatch;"
 
 private const val EXTENSION_HEADER_ITEM_INTERFACE =
-    "Lapp/morphe/extension/reddit/patches/HideSidebarComponentsPatch\$HeaderItemInterface;"
+    "Lapp/silva/extension/reddit/patches/HideSidebarComponentsPatch\$HeaderItemInterface;"
 
 @Suppress("unused")
 val hideSidebarComponentsPatch = bytecodePatch(

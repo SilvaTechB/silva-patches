@@ -32,7 +32,7 @@ import com.android.tools.smali.dexlib2.iface.instruction.OneRegisterInstruction
 import com.android.tools.smali.dexlib2.iface.reference.StringReference
 
 internal const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/reddit/settings/RedditActivityHook;"
+    "Lapp/silva/extension/reddit/settings/RedditActivityHook;"
 
 var is_2026_04_or_greater = false
     private set

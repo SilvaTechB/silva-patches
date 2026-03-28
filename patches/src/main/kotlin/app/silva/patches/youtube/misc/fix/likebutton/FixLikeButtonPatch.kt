@@ -14,7 +14,7 @@ import com.android.tools.smali.dexlib2.iface.instruction.ReferenceInstruction
 import com.android.tools.smali.dexlib2.iface.reference.MethodReference
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/patches/FixLikeButtonPatch;"
+    "Lapp/silva/extension/youtube/patches/FixLikeButtonPatch;"
 
 /**
  * Fixes https://github.com/SilvaTechB/silva-patches/issues/113.

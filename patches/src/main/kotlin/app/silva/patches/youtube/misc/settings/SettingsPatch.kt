@@ -66,8 +66,8 @@ import com.android.tools.smali.dexlib2.immutable.ImmutableMethod
 import com.android.tools.smali.dexlib2.immutable.ImmutableMethodParameter
 import com.android.tools.smali.dexlib2.util.MethodUtil
 
-private const val BASE_ACTIVITY_HOOK_CLASS_DESCRIPTOR = "Lapp/morphe/extension/shared/settings/BaseActivityHook;"
-private const val YOUTUBE_ACTIVITY_HOOK_CLASS_DESCRIPTOR = "Lapp/morphe/extension/youtube/settings/YouTubeActivityHook;"
+private const val BASE_ACTIVITY_HOOK_CLASS_DESCRIPTOR = "Lapp/silva/extension/shared/settings/BaseActivityHook;"
+private const val YOUTUBE_ACTIVITY_HOOK_CLASS_DESCRIPTOR = "Lapp/silva/extension/youtube/settings/YouTubeActivityHook;"
 
 private val preferences = mutableSetOf<BasePreference>()
 

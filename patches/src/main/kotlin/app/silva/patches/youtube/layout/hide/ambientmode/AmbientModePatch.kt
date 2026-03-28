@@ -24,7 +24,7 @@ import com.android.tools.smali.dexlib2.iface.instruction.ReferenceInstruction
 import com.android.tools.smali.dexlib2.iface.reference.MethodReference
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/patches/AmbientModePatch;"
+    "Lapp/silva/extension/youtube/patches/AmbientModePatch;"
 
 @Suppress("unused")
 val ambientModePatch = bytecodePatch(

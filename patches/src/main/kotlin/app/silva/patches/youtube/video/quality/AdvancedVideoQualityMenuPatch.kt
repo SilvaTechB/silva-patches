@@ -23,10 +23,10 @@ internal var videoQualityQuickMenuAdvancedMenuDescription = -1L
     private set
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/patches/playback/quality/AdvancedVideoQualityMenuPatch;"
+    "Lapp/silva/extension/youtube/patches/playback/quality/AdvancedVideoQualityMenuPatch;"
 
 private const val FILTER_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/patches/components/AdvancedVideoQualityMenuFilter;"
+    "Lapp/silva/extension/youtube/patches/components/AdvancedVideoQualityMenuFilter;"
 
 internal val advancedVideoQualityMenuPatch = bytecodePatch {
     dependsOn(

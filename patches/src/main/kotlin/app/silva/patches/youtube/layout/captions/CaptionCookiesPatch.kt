@@ -19,7 +19,7 @@ import com.android.tools.smali.dexlib2.immutable.ImmutableMethod
 import com.android.tools.smali.dexlib2.immutable.ImmutableMethodParameter
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/patches/CaptionCookiesPatch;"
+    "Lapp/silva/extension/youtube/patches/CaptionCookiesPatch;"
 
 internal val captionCookiesPatch = bytecodePatch(
     description = "Adds an option to set cookies in Timed Text API (Caption Data API) requests.",

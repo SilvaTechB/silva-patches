@@ -10,7 +10,7 @@ import app.silva.patches.youtube.shared.Constants.COMPATIBILITY_YOUTUBE
 import app.silva.patches.youtube.shared.EngagementPanelControllerFingerprint
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/patches/DisablePlayerPopupPanelsPatch;"
+    "Lapp/silva/extension/youtube/patches/DisablePlayerPopupPanelsPatch;"
 
 @Suppress("unused")
 val disablePlayerPopupPanelsPatch = bytecodePatch(

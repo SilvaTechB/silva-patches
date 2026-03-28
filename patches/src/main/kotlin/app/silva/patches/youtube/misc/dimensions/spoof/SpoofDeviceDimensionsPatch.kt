@@ -9,7 +9,7 @@ import app.silva.patches.youtube.misc.settings.settingsPatch
 import app.silva.patches.youtube.shared.Constants.COMPATIBILITY_YOUTUBE
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/patches/spoof/SpoofDeviceDimensionsPatch;"
+    "Lapp/silva/extension/youtube/patches/spoof/SpoofDeviceDimensionsPatch;"
 
 val spoofDeviceDimensionsPatch = bytecodePatch(
     name = "Spoof device dimensions",

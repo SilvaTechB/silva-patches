@@ -10,7 +10,7 @@ import app.silva.patches.youtube.misc.settings.settingsPatch
 import app.silva.patches.youtube.shared.Constants.COMPATIBILITY_YOUTUBE
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/patches/DisableSignInToTVPopupPatch;"
+    "Lapp/silva/extension/youtube/patches/DisableSignInToTVPopupPatch;"
 
 val disableSignInToTVPopupPatch = bytecodePatch(
     name = "Disable sign in to TV popup",

@@ -46,7 +46,7 @@ import com.android.tools.smali.dexlib2.immutable.ImmutableMethodParameter
 import java.lang.ref.WeakReference
 
 internal const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/shared/spoof/SpoofVideoStreamsPatch;"
+    "Lapp/silva/extension/shared/spoof/SpoofVideoStreamsPatch;"
 
 private lateinit var buildRequestMethodRef : WeakReference<MutableMethod>
 private var buildRequestMethodURLRegister = -1

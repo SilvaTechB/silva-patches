@@ -18,7 +18,7 @@ import com.android.tools.smali.dexlib2.iface.reference.FieldReference
 import com.android.tools.smali.dexlib2.immutable.ImmutableMethod
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/shared/patches/DisableDRCAudioPatch;"
+    "Lapp/silva/extension/shared/patches/DisableDRCAudioPatch;"
 
 @Suppress("unused")
 internal fun disableDRCAudioPatch(

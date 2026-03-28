@@ -14,7 +14,7 @@ import com.android.tools.smali.dexlib2.Opcode
 import com.android.tools.smali.dexlib2.iface.instruction.TwoRegisterInstruction
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/patches/FixPlaybackSpeedWhilePlayingPatch;"
+    "Lapp/silva/extension/youtube/patches/FixPlaybackSpeedWhilePlayingPatch;"
 
 /**
  * Fixes a bug in YouTube 19.34+ where the playback speed

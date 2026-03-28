@@ -22,7 +22,7 @@ import app.silva.patches.shared.misc.settings.preference.PreferenceScreenPrefere
 import com.android.tools.smali.dexlib2.Opcode
 import com.android.tools.smali.dexlib2.iface.instruction.OneRegisterInstruction
 
-private const val EXTENSION_CLASS_DESCRIPTOR = "Lapp/morphe/extension/music/patches/ChangeStartPagePatch;"
+private const val EXTENSION_CLASS_DESCRIPTOR = "Lapp/silva/extension/music/patches/ChangeStartPagePatch;"
 
 val changeStartPagePatch = bytecodePatch(
     name = "Change start page",

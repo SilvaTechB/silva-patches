@@ -12,7 +12,7 @@ import app.silva.patches.music.shared.Constants.COMPATIBILITY_YOUTUBE_MUSIC
 import app.silva.patches.shared.misc.settings.preference.SwitchPreference
 import com.android.tools.smali.dexlib2.iface.instruction.FiveRegisterInstruction
 
-private const val EXTENSION_CLASS_DESCRIPTOR = "Lapp/morphe/extension/music/patches/HideGetPremiumPatch;"
+private const val EXTENSION_CLASS_DESCRIPTOR = "Lapp/silva/extension/music/patches/HideGetPremiumPatch;"
 
 @Suppress("unused")
 val hideGetPremiumPatch = bytecodePatch(

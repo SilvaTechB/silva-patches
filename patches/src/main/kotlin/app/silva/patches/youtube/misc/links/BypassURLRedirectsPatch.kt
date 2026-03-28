@@ -12,7 +12,7 @@ import app.silva.patches.youtube.misc.settings.settingsPatch
 import app.silva.patches.youtube.shared.Constants.COMPATIBILITY_YOUTUBE
 import com.android.tools.smali.dexlib2.iface.instruction.FiveRegisterInstruction
 
-private const val EXTENSION_CLASS_DESCRIPTOR = "Lapp/morphe/extension/youtube/patches/BypassURLRedirectsPatch;"
+private const val EXTENSION_CLASS_DESCRIPTOR = "Lapp/silva/extension/youtube/patches/BypassURLRedirectsPatch;"
 
 val bypassURLRedirectsPatch = bytecodePatch(
     name = "Bypass URL redirects",

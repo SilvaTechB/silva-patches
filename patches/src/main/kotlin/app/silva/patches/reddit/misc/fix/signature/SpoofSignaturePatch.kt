@@ -11,7 +11,7 @@ import app.silva.patches.reddit.misc.extension.sharedExtensionPatch
 import app.silva.patches.reddit.shared.Constants.COMPATIBILITY_REDDIT
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/reddit/patches/SpoofSignaturePatch;"
+    "Lapp/silva/extension/reddit/patches/SpoofSignaturePatch;"
 
 @Suppress("unused")
 val spoofSignaturePatch = bytecodePatch(

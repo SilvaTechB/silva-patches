@@ -15,7 +15,7 @@ import com.android.tools.smali.dexlib2.iface.instruction.FiveRegisterInstruction
 import com.android.tools.smali.dexlib2.iface.instruction.OneRegisterInstruction
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/shared/patches/SanitizeSharingLinksPatch;"
+    "Lapp/silva/extension/shared/patches/SanitizeSharingLinksPatch;"
 
 /**
  * Patch shared by YouTube and YT Music.

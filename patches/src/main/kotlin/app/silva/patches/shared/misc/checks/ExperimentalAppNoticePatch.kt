@@ -6,7 +6,7 @@ import app.morphe.patcher.patch.bytecodePatch
 import app.silva.patches.shared.misc.settings.RecommendedAppVersionUtilsFingerprint
 import app.silva.util.returnEarly
 
-private const val EXTENSION_CLASS_DESCRIPTOR = "Lapp/morphe/extension/shared/patches/ExperimentalAppNoticePatch;"
+private const val EXTENSION_CLASS_DESCRIPTOR = "Lapp/silva/extension/shared/patches/ExperimentalAppNoticePatch;"
 
 internal fun experimentalAppNoticePatch(
     mainActivityFingerprint: Fingerprint,

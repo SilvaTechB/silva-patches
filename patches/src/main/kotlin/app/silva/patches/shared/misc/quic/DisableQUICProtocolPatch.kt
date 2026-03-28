@@ -14,7 +14,7 @@ import app.silva.patches.shared.misc.settings.preference.BasePreferenceScreen
 import app.silva.patches.shared.misc.settings.preference.SwitchPreference
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/shared/patches/DisableQUICProtocolPatch;"
+    "Lapp/silva/extension/shared/patches/DisableQUICProtocolPatch;"
 
 internal fun disableQUICProtocolPatch(
     block: BytecodePatchBuilder.() -> Unit,

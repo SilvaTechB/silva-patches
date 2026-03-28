@@ -15,7 +15,7 @@ import app.silva.util.setExtensionIsPatchIncluded
 import com.android.tools.smali.dexlib2.iface.instruction.OneRegisterInstruction
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/reddit/patches/DisableScreenshotPopupPatch;"
+    "Lapp/silva/extension/reddit/patches/DisableScreenshotPopupPatch;"
 
 @Suppress("unused")
 val disableScreenshotPopupPatch = bytecodePatch(

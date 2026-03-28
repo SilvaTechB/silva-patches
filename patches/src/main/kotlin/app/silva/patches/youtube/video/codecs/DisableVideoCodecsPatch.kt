@@ -14,7 +14,7 @@ import com.android.tools.smali.dexlib2.iface.instruction.FiveRegisterInstruction
 import com.android.tools.smali.dexlib2.iface.reference.MethodReference
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/patches/DisableVideoCodecsPatch;"
+    "Lapp/silva/extension/youtube/patches/DisableVideoCodecsPatch;"
 
 @Suppress("unused")
 val disableVideoCodecsPatch = bytecodePatch(

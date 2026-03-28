@@ -20,7 +20,7 @@ import com.android.tools.smali.dexlib2.iface.instruction.RegisterRangeInstructio
 import com.android.tools.smali.dexlib2.iface.reference.MethodReference
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/patches/DisableShortsResumingOnStartupPatch;"
+    "Lapp/silva/extension/youtube/patches/DisableShortsResumingOnStartupPatch;"
 
 @Suppress("unused")
 val disableShortsResumingOnStartupPatch = bytecodePatch(

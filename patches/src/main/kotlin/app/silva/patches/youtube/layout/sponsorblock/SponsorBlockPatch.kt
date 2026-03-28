@@ -105,13 +105,13 @@ private val sponsorBlockResourcePatch = resourcePatch {
 }
 
 internal const val EXTENSION_SEGMENT_PLAYBACK_CONTROLLER_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/sponsorblock/SegmentPlaybackController;"
+    "Lapp/silva/extension/youtube/sponsorblock/SegmentPlaybackController;"
 private const val EXTENSION_CREATE_SEGMENT_BUTTON_CONTROLLER_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/sponsorblock/ui/CreateSegmentButton;"
+    "Lapp/silva/extension/youtube/sponsorblock/ui/CreateSegmentButton;"
 private const val EXTENSION_VOTING_BUTTON_CONTROLLER_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/sponsorblock/ui/VotingButton;"
+    "Lapp/silva/extension/youtube/sponsorblock/ui/VotingButton;"
 private const val EXTENSION_SPONSORBLOCK_VIEW_CONTROLLER_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/sponsorblock/ui/SponsorBlockViewController;"
+    "Lapp/silva/extension/youtube/sponsorblock/ui/SponsorBlockViewController;"
 
 @Suppress("unused")
 val sponsorBlockPatch = bytecodePatch(

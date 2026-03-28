@@ -34,7 +34,7 @@ import kotlin.io.encoding.Base64
 import kotlin.io.encoding.ExperimentalEncodingApi
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/shared/checks/CheckEnvironmentPatch;"
+    "Lapp/silva/extension/shared/checks/CheckEnvironmentPatch;"
 
 fun checkEnvironmentPatch(
     mainActivityOnCreateFingerprint: Fingerprint,

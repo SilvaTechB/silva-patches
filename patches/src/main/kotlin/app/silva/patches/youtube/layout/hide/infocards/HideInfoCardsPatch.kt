@@ -64,7 +64,7 @@ val hideInfoCardsPatch = bytecodePatch(
             addInstruction(
                 invokeInstructionIndex,
                 "invoke-static {v${getInstruction<FiveRegisterInstruction>(invokeInstructionIndex).registerC}}," +
-                    " Lapp/morphe/extension/youtube/patches/HideInfoCardsPatch;->hideInfoCardsIncognito(Landroid/view/View;)V",
+                    " Lapp/silva/extension/youtube/patches/HideInfoCardsPatch;->hideInfoCardsIncognito(Landroid/view/View;)V",
             )
         }
 
@@ -77,7 +77,7 @@ val hideInfoCardsPatch = bytecodePatch(
                 addInstructionsWithLabels(
                     invokeInterfaceIndex,
                     """
-                        invoke-static {}, Lapp/morphe/extension/youtube/patches/HideInfoCardsPatch;->hideInfoCardsMethodCall()Z
+                        invoke-static {}, Lapp/silva/extension/youtube/patches/HideInfoCardsPatch;->hideInfoCardsMethodCall()Z
                         move-result v$register
                         if-nez v$register, :hide_info_cards
                     """,
@@ -90,7 +90,7 @@ val hideInfoCardsPatch = bytecodePatch(
         }
 
         // Info cards can also appear as Litho components.
-        val filterClassDescriptor = "Lapp/morphe/extension/youtube/patches/components/HideInfoCardsFilter;"
+        val filterClassDescriptor = "Lapp/silva/extension/youtube/patches/components/HideInfoCardsFilter;"
         addLithoFilter(filterClassDescriptor)
     }
 }

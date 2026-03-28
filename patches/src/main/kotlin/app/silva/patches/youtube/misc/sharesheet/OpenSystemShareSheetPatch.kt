@@ -20,10 +20,10 @@ import app.silva.patches.youtube.misc.settings.settingsPatch
 import app.silva.patches.youtube.shared.Constants.COMPATIBILITY_YOUTUBE
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/patches/OpenSystemShareSheetPatch;"
+    "Lapp/silva/extension/youtube/patches/OpenSystemShareSheetPatch;"
 
 private const val FILTER_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/patches/components/OpenSystemShareSheetFilter;"
+    "Lapp/silva/extension/youtube/patches/components/OpenSystemShareSheetFilter;"
 
 @Suppress("unused")
 internal fun openSystemShareSheetPatch(

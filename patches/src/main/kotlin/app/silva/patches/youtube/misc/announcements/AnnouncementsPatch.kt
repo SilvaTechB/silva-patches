@@ -9,7 +9,7 @@ import app.silva.patches.youtube.shared.Constants.COMPATIBILITY_YOUTUBE
 import app.silva.patches.youtube.shared.YouTubeActivityOnCreateFingerprint
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/patches/announcements/AnnouncementsPatch;"
+    "Lapp/silva/extension/youtube/patches/announcements/AnnouncementsPatch;"
 
 val announcementsPatch = bytecodePatch(
     // FIXME: Change this to an "Update is available" patch

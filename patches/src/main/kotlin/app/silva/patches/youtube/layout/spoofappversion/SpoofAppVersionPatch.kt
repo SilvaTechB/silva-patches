@@ -27,7 +27,7 @@ import app.silva.util.insertLiteralOverride
 import com.android.tools.smali.dexlib2.iface.instruction.OneRegisterInstruction
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/patches/spoof/SpoofAppVersionPatch;"
+    "Lapp/silva/extension/youtube/patches/spoof/SpoofAppVersionPatch;"
 
 val spoofAppVersionPatch = bytecodePatch(
     name = "Spoof app version",

@@ -27,7 +27,7 @@ import com.android.tools.smali.dexlib2.iface.instruction.TwoRegisterInstruction
 import com.android.tools.smali.dexlib2.iface.reference.MethodReference
 
 private const val EXTENSION_CLASS_DESCRIPTOR =
-    "Lapp/morphe/extension/youtube/patches/HidePlayerOverlayButtonsPatch;"
+    "Lapp/silva/extension/youtube/patches/HidePlayerOverlayButtonsPatch;"
 
 val hidePlayerOverlayButtonsPatch = bytecodePatch(
     name = "Hide player overlay buttons",
