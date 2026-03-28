@@ -33,6 +33,23 @@ settings {
     }
 }
 
+dependencyResolutionManagement {
+    repositories {
+        mavenLocal()
+        mavenCentral()
+        google()
+        maven {
+            name = "SilvaLibrary"
+            url = uri("https://maven.pkg.github.com/SilvaTechB/silva-library")
+            credentials {
+                username = providers.gradleProperty("gpr.user").getOrElse(System.getenv("GITHUB_ACTOR"))
+                password = providers.gradleProperty("gpr.key").getOrElse(System.getenv("GITHUB_TOKEN"))
+            }
+        }
+        maven { url = uri("https://jitpack.io") }
+    }
+}
+
 include(":patches:stub")
 
 // Include silva-patcher as composite builds if they exist locally
