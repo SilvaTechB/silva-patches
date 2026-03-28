@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+
+    Strings with new lines must be raw strings where they're wrapped in quotes and new lines are not encoded.
+    Raw strings still requires escaping embedded double quotes but escaping embedded single quotes is optional.
+
+    Raw strings are required because Crowdin AI translations regularly gets confused and
+    replace \n with an encoded new line character.
+
+    Bad:
+        <string name="summary_key">First \'item\' text\nSecond \"item\" text</string>
+
+    Good:
+        <string name="summary_key">"First 'item' text
+Second \"item\" text"</string>
+
+-->
+<resources>
+  <!-- layout.branding.customBrandingPatch -->
+  <!-- layout.branding.header.changeHeaderPatch -->
+  <string name="morphe_header_logo_title">Sərlövhə simvolu</string>
+  <string name="morphe_header_logo_entry_1">İlkin</string>
+  <string name="morphe_header_logo_entry_3">Fərdi</string>
+  <!-- misc.settings.settingsPatch -->
+  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <string name="morphe_settings_music_screen_0_about_title">Haqqında</string>
+  <string name="morphe_settings_music_screen_1_ads_title">Reklamlar</string>
+  <string name="morphe_settings_music_screen_2_general_title">Ümumi</string>
+  <string name="morphe_settings_music_screen_3_player_title">Oynadıcı</string>
+  <string name="morphe_settings_music_screen_4_misc_title">Çoxvariantlı</string>
+  <!-- ad.video.hideVideoAdsPatch -->
+  <string name="morphe_music_hide_video_ads_title">Video reklamlarını gizlət</string>
+  <string name="morphe_music_hide_video_ads_summary_on">Video reklamları gizlidir</string>
+  <string name="morphe_music_hide_video_ads_summary_off">Video reklamları görünür</string>
+  <!-- interaction.permanentrepeat.permanentRepeatPatch -->
+  <string name="morphe_music_play_permanent_repeat_title">Daimi təkrarlamanı aktivləşdir</string>
+  <string name="morphe_music_play_permanent_repeat_summary_on">Daimi təkrarlama aktivdir</string>
+  <string name="morphe_music_play_permanent_repeat_summary_off">Daimi təkrarlama qapalıdır</string>
+  <!-- layout.buttons.hideButtons -->
+  <string name="morphe_music_hide_cast_button_title">Yayım düyməsini gizlət</string>
+  <string name="morphe_music_hide_cast_button_summary_on">Yayım düyməsi gizlidir</string>
+  <string name="morphe_music_hide_cast_button_summary_off">Yayım düyməsi görünür</string>
+  <string name="morphe_music_hide_history_button_title">Tarixçə düyməsini gizlət</string>
+  <string name="morphe_music_hide_history_button_summary_on">Tarixçə düyməsi gizlidir</string>
+  <string name="morphe_music_hide_history_button_summary_off">Tarixçə düyməsi görünür</string>
+  <string name="morphe_music_hide_notification_button_title">Bildiriş düyməsini gizlət</string>
+  <string name="morphe_music_hide_notification_button_summary_on">Bildiriş düyməsi gizlidir</string>
+  <string name="morphe_music_hide_notification_button_summary_off">Bildiriş düyməsi görünür</string>
+  <string name="morphe_music_hide_search_button_title">Axtarış düyməsini gizlət</string>
+  <string name="morphe_music_hide_search_button_summary_on">Axtarış düyməsi gizlidir</string>
+  <string name="morphe_music_hide_search_button_summary_off">Axtarış düyməsi görünür</string>
+  <!-- layout.startpage.changeStartPagePatch -->
+  <string name="morphe_change_start_page_title">Başlatma səhifəsini dəyişdir</string>
+  <string name="morphe_change_start_page_entry_default">İlkin</string>
+  <string name="morphe_change_start_page_entry_charts">Diaqramlar</string>
+  <string name="morphe_change_start_page_entry_episodes_for_later">Sonra üçün epizodlar</string>
+  <string name="morphe_change_start_page_entry_explore">Kəşf et</string>
+  <string name="morphe_change_start_page_entry_history">Tarixçə</string>
+  <string name="morphe_change_start_page_entry_library">Kitabxana</string>
+  <string name="morphe_change_start_page_entry_liked_music">Bəyənilmiş musiqi</string>
+  <string name="morphe_change_start_page_entry_playlists">Pleylistlər</string>
+  <string name="morphe_change_start_page_entry_search">Axtarış</string>
+  <string name="morphe_change_start_page_entry_subscriptions">Abunəliklər</string>
+  <!-- layout.compactheader.hideCategoryBar -->
+  <string name="morphe_music_hide_category_bar_title">Kateqoriya cizgisin gizlət</string>
+  <string name="morphe_music_hide_category_bar_summary_on">Kateqoriya cizgisi gizlidir</string>
+  <string name="morphe_music_hide_category_bar_summary_off">Kateqoriya cizgisi görünür</string>
+  <!-- layout.miniplayer.changeMiniplayerColor -->
+  <string name="morphe_music_change_miniplayer_color_title">Kiçik səsləndirici rəngini dəyişdir</string>
+  <string name="morphe_music_change_miniplayer_color_summary_on">Kiçik oynadıcı rəngi tam ekran oynadıcıya uyuşur</string>
+  <string name="morphe_music_change_miniplayer_color_summary_off">Kiçik oynadıcı ilkin rəngi istifadə edir</string>
+  <!-- layout.miniplayer.miniplayerNextPreviousButtons -->
+  <string name="morphe_music_miniplayer_next_button_title">Kiçik səsləndiricidə növbəti düyməsin göstər</string>
+  <string name="morphe_music_miniplayer_next_button_summary_on">Növbəti düyməsi kiçik səsləndiricidə görünür</string>
+  <string name="morphe_music_miniplayer_next_button_summary_off">Növbəti düyməsi kiçik səsləndiricidə görünmür</string>
+  <string name="morphe_music_miniplayer_previous_button_title">Kiçik səsləndiricidə əvvəlki düyməsin göstər</string>
+  <string name="morphe_music_miniplayer_previous_button_summary_on">Əvvəlki düyməsi kiçik səsləndiricidə görünür</string>
+  <string name="morphe_music_miniplayer_previous_button_summary_off">Əvvəlki düyməsi kiçik səsləndiricidə görünmür</string>
+  <!-- layout.miniplayer.enableForcedMiniplayer -->
+  <string name="morphe_music_enable_forced_miniplayer_title">Məcburi kiçik səsləndiricini aktivləşdir</string>
+  <string name="morphe_music_enable_forced_miniplayer_summary_on">Səsləndirmə dəyişdikdə kiçik səsləndirici kiçildilmiş qalır</string>
+  <string name="morphe_music_enable_forced_miniplayer_summary_off">Səsləndirmə dəyişdikdə kiçik səsləndirici tam ekrana genişlənir</string>
+  <!-- layout.navigationbar.navigationBarPatch -->
+  <string name="morphe_music_navigation_bar_screen_title">Fəaliyyət cizgisi</string>
+  <string name="morphe_music_navigation_bar_screen_summary">Fəaliyyət cizgisi düymələrini gizlət və ya dəyiş</string>
+  <!-- 'Home' should be translated using the same localized wording YouTube Music displays for the tab. -->
+  <string name="morphe_music_hide_navigation_bar_home_button_title">Ev-i Gizlət</string>
+  <string name="morphe_music_hide_navigation_bar_home_button_summary_on">Ev düyməsi gizlidir</string>
+  <string name="morphe_music_hide_navigation_bar_home_button_summary_off">Ev düyməsi görünür</string>
+  <!-- 'Samples' should be translated using the same localized wording YouTube Music displays for the tab. -->
+  <string name="morphe_music_hide_navigation_bar_samples_button_title">Nümunələri Gizlət</string>
+  <string name="morphe_music_hide_navigation_bar_samples_button_summary_on">Nümunələr düyməsi gizlidir</string>
+  <string name="morphe_music_hide_navigation_bar_samples_button_summary_off">Nümunələr düyməsi görünür</string>
+  <!-- 'Explore' should be translated using the same localized wording YouTube Music displays for the tab. -->
+  <string name="morphe_music_hide_navigation_bar_explore_button_title">Kəşf edin-i Gizlət</string>
+  <string name="morphe_music_hide_navigation_bar_explore_button_summary_on">Kəşf et düyməsi gizlidir</string>
+  <string name="morphe_music_hide_navigation_bar_explore_button_summary_off">Kəşf et düyməsi görünür</string>
+  <!-- 'Library' should be translated using the same localized wording YouTube Music displays for the tab. -->
+  <string name="morphe_music_hide_navigation_bar_library_button_title">Kitabxananı Gizlət</string>
+  <string name="morphe_music_hide_navigation_bar_library_button_summary_on">Kitabxana düyməsi gizlidir</string>
+  <string name="morphe_music_hide_navigation_bar_library_button_summary_off">Kitabxana düyməsi görünür</string>
+  <!-- 'Upgrade' should be translated using the same localized wording YouTube Music displays for the tab. -->
+  <string name="morphe_music_hide_navigation_bar_upgrade_button_title">Güncəlləyin-i Gizlət</string>
+  <string name="morphe_music_hide_navigation_bar_upgrade_button_summary_on">Güncəlləyin düyməsi gizlidir</string>
+  <string name="morphe_music_hide_navigation_bar_upgrade_button_summary_off">Güncəlləyin düyməsi görünür</string>
+  <string name="morphe_music_hide_navigation_bar_title">Fəaliyyət cizgisin gizlət</string>
+  <string name="morphe_music_hide_navigation_bar_summary_on">Fəaliyyət cizgisi gizlidir</string>
+  <string name="morphe_music_hide_navigation_bar_summary_off">Fəaliyyət cizgisi görünür</string>
+  <string name="morphe_music_hide_navigation_bar_labels_title">Fəaliyyət düyməsi etiketlərini gizlət</string>
+  <string name="morphe_music_hide_navigation_bar_labels_summary_on">Etiketlər gizlidir</string>
+  <string name="morphe_music_hide_navigation_bar_labels_summary_off">Etiketlər görünür</string>
+  <!-- layout.premium.hideGetPremiumPatch -->
+  <string name="morphe_music_hide_get_premium_label_title"> \'Musiqi Premiumu Əldə et\' etiketini gizlət</string>
+  <string name="morphe_music_hide_get_premium_label_summary_on">Etiket gizlidir</string>
+  <string name="morphe_music_hide_get_premium_label_summary_off">Etiket görünür</string>
+  <!-- layout.upgradebutton.hideUpgradeButtonPatch -->
+  <string name="morphe_music_hide_upgrade_button_title">Güncəlləyin düyməsini gizlət</string>
+  <string name="morphe_music_hide_upgrade_button_summary_on">Düymə gizlidir</string>
+  <string name="morphe_music_hide_upgrade_button_summary_off">Düymə görünür</string>
+</resources>
