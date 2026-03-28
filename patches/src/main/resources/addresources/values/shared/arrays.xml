@@ -1,7 +1,7 @@
 <resources>
     <!-- misc.settings.settingsResourcePatch -->
-    <string-array name="morphe_language_entries">
-        <item>@string/morphe_language_DEFAULT</item>
+    <string-array name="silva_language_entries">
+        <item>@string/silva_language_DEFAULT</item>
         <item>Afrikaans</item>
         <item>አማርኛ</item>
         <item>العربية</item>
@@ -80,7 +80,7 @@
         <item>中文</item>
         <item>isiZulu</item>
     </string-array>
-    <string-array name="morphe_language_entry_values">
+    <string-array name="silva_language_entry_values">
         <item>DEFAULT</item>
         <item>AF</item>
         <item>AM</item>

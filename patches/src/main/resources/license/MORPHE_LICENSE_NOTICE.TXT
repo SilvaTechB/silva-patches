@@ -5,7 +5,7 @@ This file contains Section 7 notices of the GNU General Public License v3
 as they apply to Morphe code. These notices apply to all code authored by
 Morphe, including any modifications of code that may have originated
 outside this repository, and do not change the terms of the GPLv3 license.
-For the full license text, see the MORPHE_LICENSE.TXT file or:
+For the full license text, see the SILVA_LICENSE.TXT file or:
 https://www.gnu.org/licenses/gpl-3.0.html
 
 7b. Attribution Requirement

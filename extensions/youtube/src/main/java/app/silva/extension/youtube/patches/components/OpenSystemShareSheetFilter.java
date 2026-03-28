@@ -1,0 +1,41 @@
+/*
+ * Copyright 2026 Silva.
+ * https://github.com/SilvaTechB/silva-patches
+ *
+ * See the included NOTICE file for GPLv3 §7(b) and §7(c) terms that apply to this code.
+ */
+
+package app.silva.extension.youtube.patches.components;
+
+import app.silva.extension.youtube.patches.OpenSystemShareSheetPatch;
+import app.silva.extension.youtube.settings.Settings;
+import app.silva.extension.youtube.shared.ConversionContext.ContextInterface;
+
+/**
+ * LithoFilter for {@link OpenSystemShareSheetPatch}.
+ */
+public final class OpenSystemShareSheetFilter extends Filter {
+
+    public static volatile boolean isShareSheetVisible;
+
+    public OpenSystemShareSheetFilter() {
+        addPathCallbacks(new StringFilterGroup(
+                Settings.OPEN_SYSTEM_SHARE_SHEET,
+                "share_sheet_container."
+        ));
+    }
+
+    @Override
+    boolean isFiltered(ContextInterface contextInterface,
+                       String identifier,
+                       String accessibility,
+                       String path,
+                       byte[] buffer,
+                       StringFilterGroup matchedGroup,
+                       FilterContentType contentType,
+                       int contentIndex) {
+
+        isShareSheetVisible = true;
+        return false;
+    }
+}

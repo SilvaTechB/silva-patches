@@ -17,108 +17,108 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsResourcePatch -->
-  <string name="morphe_settings_submenu_title">Подешавања</string>
-  <string name="morphe_settings_confirm_user_dialog_title">Желите ли заиста да наставите?</string>
-  <string name="morphe_settings_save">Сачувај</string>
-  <string name="morphe_settings_reset">Ресетуј</string>
-  <string name="morphe_settings_reset_color">Ресетуј боју</string>
-  <string name="morphe_settings_color_invalid">Неважећа боја</string>
-  <string name="morphe_settings_restart_title">Потребно је рестартовање</string>
-  <string name="morphe_settings_restart_dialog_message">Рестартујте апликацију да би ова промена ступила на снагу.</string>
-  <string name="morphe_settings_restart">Рестартуј</string>
+  <string name="silva_settings_submenu_title">Подешавања</string>
+  <string name="silva_settings_confirm_user_dialog_title">Желите ли заиста да наставите?</string>
+  <string name="silva_settings_save">Сачувај</string>
+  <string name="silva_settings_reset">Ресетуј</string>
+  <string name="silva_settings_reset_color">Ресетуј боју</string>
+  <string name="silva_settings_color_invalid">Неважећа боја</string>
+  <string name="silva_settings_restart_title">Потребно је рестартовање</string>
+  <string name="silva_settings_restart_dialog_message">Рестартујте апликацију да би ова промена ступила на снагу.</string>
+  <string name="silva_settings_restart">Рестартуј</string>
   <!-- String is also duplicated in Reddit import / export preference -->
-  <string name="morphe_settings_import">Увоз</string>
-  <string name="morphe_settings_import_copy">Копирај</string>
-  <string name="morphe_settings_import_reset">Подешавања Morphe-а су враћена на подразумеване вредности</string>
-  <string name="morphe_settings_import_success">Увезено %d подешавања</string>
-  <string name="morphe_settings_import_failure_parse">Неуспешан увоз: %s</string>
-  <string name="morphe_settings_search_hint">Претражите подешавања</string>
-  <string name="morphe_settings_search_no_results_title">Нису пронађени резултати за „%s”</string>
-  <string name="morphe_settings_search_no_results_summary">Покушајте са другом кључном речи</string>
-  <string name="morphe_settings_search_recent_searches">Недавне претраге</string>
-  <string name="morphe_settings_search_remove_message">Уклонити из историје претраге?</string>
-  <string name="morphe_settings_search_clear_history">Очисти историју претраге</string>
-  <string name="morphe_settings_search_clear_history_message">Желите ли заиста да очистите целу историју претраге?</string>
-  <string name="morphe_settings_search_tips_title">Савети за претрагу</string>
-  <string name="morphe_settings_search_tips_summary">"• Додирните путању да бисте се кретали до ње
+  <string name="silva_settings_import">Увоз</string>
+  <string name="silva_settings_import_copy">Копирај</string>
+  <string name="silva_settings_import_reset">Подешавања Silva-а су враћена на подразумеване вредности</string>
+  <string name="silva_settings_import_success">Увезено %d подешавања</string>
+  <string name="silva_settings_import_failure_parse">Неуспешан увоз: %s</string>
+  <string name="silva_settings_search_hint">Претражите подешавања</string>
+  <string name="silva_settings_search_no_results_title">Нису пронађени резултати за „%s”</string>
+  <string name="silva_settings_search_no_results_summary">Покушајте са другом кључном речи</string>
+  <string name="silva_settings_search_recent_searches">Недавне претраге</string>
+  <string name="silva_settings_search_remove_message">Уклонити из историје претраге?</string>
+  <string name="silva_settings_search_clear_history">Очисти историју претраге</string>
+  <string name="silva_settings_search_clear_history_message">Желите ли заиста да очистите целу историју претраге?</string>
+  <string name="silva_settings_search_tips_title">Савети за претрагу</string>
+  <string name="silva_settings_search_tips_summary">"• Додирните путању да бисте се кретали до ње
 • Дуго додирните подешавање да бисте дошли до њега
 • Притисните Enter да бисте сачували упит за претрагу у историји
 • Претрага занемарује велика и мала слова и интерпункцију
 • Родитељска подешавања се појављују изнад онемогућених дечјих подешавања"</string>
-  <string name="morphe_settings_search_empty_history_title">Историја претраге је празна</string>
-  <string name="morphe_settings_search_empty_history_summary">Да бисте сачували историју претраге, унесите упит за претрагу и притисните Enter</string>
-  <string name="morphe_settings_search_history_title">Прикажи историју претраге подешавања</string>
-  <string name="morphe_settings_search_history_summary_on">Историја претраге подешавања је приказана</string>
-  <string name="morphe_settings_search_history_summary_off">Историја претраге подешавања није приказана</string>
-  <string name="morphe_show_menu_icons_title">Прикажи иконице подешавања Morphe-а</string>
-  <string name="morphe_show_menu_icons_summary_on">Иконице подешавања су приказане</string>
-  <string name="morphe_show_menu_icons_summary_off">Иконице подешавања нису приказане</string>
-  <string name="morphe_language_title">Језик Morphe-a</string>
-  <string name="morphe_language_user_dialog_message">"Преводи за неке језике могу недостајати или бити непотпуни.
+  <string name="silva_settings_search_empty_history_title">Историја претраге је празна</string>
+  <string name="silva_settings_search_empty_history_summary">Да бисте сачували историју претраге, унесите упит за претрагу и притисните Enter</string>
+  <string name="silva_settings_search_history_title">Прикажи историју претраге подешавања</string>
+  <string name="silva_settings_search_history_summary_on">Историја претраге подешавања је приказана</string>
+  <string name="silva_settings_search_history_summary_off">Историја претраге подешавања није приказана</string>
+  <string name="silva_show_menu_icons_title">Прикажи иконице подешавања Silva-а</string>
+  <string name="silva_show_menu_icons_summary_on">Иконице подешавања су приказане</string>
+  <string name="silva_show_menu_icons_summary_off">Иконице подешавања нису приказане</string>
+  <string name="silva_language_title">Језик Silva-a</string>
+  <string name="silva_language_user_dialog_message">"Преводи за неке језике могу недостајати или бити непотпуни.
 
-Да бисте превели нове језике или побољшали постојеће преводе, посетите morphe.software/translate"</string>
-  <string name="morphe_language_DEFAULT">Језик апликације</string>
-  <string name="morphe_pref_import_export_title">Увоз / Извоз</string>
-  <string name="morphe_pref_import_export_summary">Увоз / Извоз подешавања Morphe-а</string>
-  <string name="morphe_settings_import_file">Увоз из фајла</string>
-  <string name="morphe_settings_import_file_success">Подешавања су успешно увезена, додирните Сачувај да бисте их применили</string>
-  <string name="morphe_settings_import_file_failed">Неуспешан увоз подешавања</string>
-  <string name="morphe_settings_export_file">Извоз у фајл</string>
-  <string name="morphe_settings_export_file_success">Успешно извезени подешавања</string>
-  <string name="morphe_settings_export_file_failed">Неуспео извоз подешавања</string>
+Да бисте превели нове језике или побољшали постојеће преводе, посетите silva.software/translate"</string>
+  <string name="silva_language_DEFAULT">Језик апликације</string>
+  <string name="silva_pref_import_export_title">Увоз / Извоз</string>
+  <string name="silva_pref_import_export_summary">Увоз / Извоз подешавања Silva-а</string>
+  <string name="silva_settings_import_file">Увоз из фајла</string>
+  <string name="silva_settings_import_file_success">Подешавања су успешно увезена, додирните Сачувај да бисте их применили</string>
+  <string name="silva_settings_import_file_failed">Неуспешан увоз подешавања</string>
+  <string name="silva_settings_export_file">Извоз у фајл</string>
+  <string name="silva_settings_export_file_success">Успешно извезени подешавања</string>
+  <string name="silva_settings_export_file_failed">Неуспео извоз подешавања</string>
   <!-- String is also duplicated in Reddit about preference -->
-  <string name="morphe_settings_about_links_body_version_current">Користите последњу верзију Morphe печева &lt;i&gt;%s&lt;/i&gt;</string>
-  <string name="morphe_settings_about_links_body_version_outdated">Користите Morphe печеве верзије &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Доступно је ажурирање: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Да бисте ажурирали печеве, користите Morphe да бисте поново закрпили ову апликацију</string>
-  <string name="morphe_settings_about_links_dev_header">Напомена</string>
-  <string name="morphe_settings_about_links_dev_body">Ова верзија је предиздање и можда ћете имати неочекиване проблеме</string>
-  <string name="morphe_settings_about_links_header">Званични линкови</string>
-  <string name="morphe_settings_about_links_website">Веб сајт</string>
-  <string name="morphe_settings_about_links_donate">Донација</string>
-  <string name="morphe_settings_about_links_translations">Преводи</string>
-  <string name="morphe_settings_about_links_credits">Популарност</string>
-  <string name="morphe_settings_about_links_dev_header_up_to_date">Актуализовано</string>
-  <string name="morphe_settings_about_links_dev_header_update_available">Доступна је нова верзија</string>
-  <string name="morphe_settings_about_contributors_current">Тренутни развој</string>
-  <string name="morphe_settings_about_contributors_prior">Ранија развојна фаза</string>
-  <string name="morphe_settings_about_links_morphe">Активна развојна фаза</string>
-  <string name="morphe_settings_about_links_rvx">2022 – 2025</string>
-  <string name="morphe_settings_about_links_rv">2022 – 2025</string>
-  <string name="morphe_settings_about_links_vanced">2019 – 2022</string>
-  <string name="morphe_settings_about_links_licenses">Обавештења о лиценцама</string>
-  <string name="morphe_settings_about_licenses_loading">Учитавање…</string>
+  <string name="silva_settings_about_links_body_version_current">Користите последњу верзију Silva печева &lt;i&gt;%s&lt;/i&gt;</string>
+  <string name="silva_settings_about_links_body_version_outdated">Користите Silva печеве верзије &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Доступно је ажурирање: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Да бисте ажурирали печеве, користите Silva да бисте поново закрпили ову апликацију</string>
+  <string name="silva_settings_about_links_dev_header">Напомена</string>
+  <string name="silva_settings_about_links_dev_body">Ова верзија је предиздање и можда ћете имати неочекиване проблеме</string>
+  <string name="silva_settings_about_links_header">Званични линкови</string>
+  <string name="silva_settings_about_links_website">Веб сајт</string>
+  <string name="silva_settings_about_links_donate">Донација</string>
+  <string name="silva_settings_about_links_translations">Преводи</string>
+  <string name="silva_settings_about_links_credits">Популарност</string>
+  <string name="silva_settings_about_links_dev_header_up_to_date">Актуализовано</string>
+  <string name="silva_settings_about_links_dev_header_update_available">Доступна је нова верзија</string>
+  <string name="silva_settings_about_contributors_current">Тренутни развој</string>
+  <string name="silva_settings_about_contributors_prior">Ранија развојна фаза</string>
+  <string name="silva_settings_about_links_silva">Активна развојна фаза</string>
+  <string name="silva_settings_about_links_rvx">2022 – 2025</string>
+  <string name="silva_settings_about_links_rv">2022 – 2025</string>
+  <string name="silva_settings_about_links_vanced">2019 – 2022</string>
+  <string name="silva_settings_about_links_licenses">Обавештења о лиценцама</string>
+  <string name="silva_settings_about_licenses_loading">Учитавање…</string>
   <!-- misc.debugging.enableDebuggingPatch -->
-  <string name="morphe_debug_screen_title">Отклањање грешака</string>
-  <string name="morphe_debug_screen_summary">Омогућите или онемогућите опције за отклањање грешака</string>
-  <string name="morphe_debug_title">Евидентирање отклањања грешака</string>
-  <string name="morphe_debug_summary_on">Евиденције отклањања грешака су омогућене</string>
-  <string name="morphe_debug_summary_off">Евиденције отклањања грешака су онемогућене</string>
-  <string name="morphe_debug_stacktrace_title">Евидентирање праћења стека</string>
-  <string name="morphe_debug_stacktrace_summary_on">Евиденције отклањања грешака садрже праћење стека</string>
-  <string name="morphe_debug_stacktrace_summary_off">Евиденције отклањања грешака не садрже праћење стека</string>
-  <string name="morphe_debug_toast_on_error_title">Прикажи искачуће обавештење при грешци с Morphe-ом</string>
-  <string name="morphe_debug_toast_on_error_summary_on">Искачуће обавештење је приказано, ако дође до грешке</string>
-  <string name="morphe_debug_toast_on_error_summary_off">Искачуће обавештење није приказано, ако дође до грешке</string>
-  <string name="morphe_debug_toast_on_error_user_dialog_message">"Искључивање искачућих обавештења о грешкама сакрива сва обавештења о грешкама у Morphe-у.
+  <string name="silva_debug_screen_title">Отклањање грешака</string>
+  <string name="silva_debug_screen_summary">Омогућите или онемогућите опције за отклањање грешака</string>
+  <string name="silva_debug_title">Евидентирање отклањања грешака</string>
+  <string name="silva_debug_summary_on">Евиденције отклањања грешака су омогућене</string>
+  <string name="silva_debug_summary_off">Евиденције отклањања грешака су онемогућене</string>
+  <string name="silva_debug_stacktrace_title">Евидентирање праћења стека</string>
+  <string name="silva_debug_stacktrace_summary_on">Евиденције отклањања грешака садрже праћење стека</string>
+  <string name="silva_debug_stacktrace_summary_off">Евиденције отклањања грешака не садрже праћење стека</string>
+  <string name="silva_debug_toast_on_error_title">Прикажи искачуће обавештење при грешци с Silva-ом</string>
+  <string name="silva_debug_toast_on_error_summary_on">Искачуће обавештење је приказано, ако дође до грешке</string>
+  <string name="silva_debug_toast_on_error_summary_off">Искачуће обавештење није приказано, ако дође до грешке</string>
+  <string name="silva_debug_toast_on_error_user_dialog_message">"Искључивање искачућих обавештења о грешкама сакрива сва обавештења о грешкама у Silva-у.
 
 Нећете бити обавештени ни о каквим неочекиваним догађајима."</string>
-  <string name="morphe_debug_export_logs_to_clipboard_title">Извези евиденције отклањања грешака</string>
-  <string name="morphe_debug_export_logs_to_clipboard_summary">Копира евиденције отклањања грешака Morphe-а у привремену меморију</string>
-  <string name="morphe_debug_logs_disabled">Евидентирање отклањања грешака је онемогућено</string>
-  <string name="morphe_debug_logs_none_found">Нема пронађених евиденција</string>
-  <string name="morphe_debug_logs_copied_to_clipboard">Евиденције су копиране</string>
-  <string name="morphe_debug_logs_failed_to_export">Неуспешан извоз евиденција: %s</string>
-  <string name="morphe_debug_logs_clear_buffer_title">Избриши евиденције отклањања грешака</string>
-  <string name="morphe_debug_logs_clear_buffer_summary">Брише све сачуване евиденције отклањања грешака Morphe-а</string>
-  <string name="morphe_debug_logs_clear_toast">Евиденције су избрисане</string>
-  <string name="morphe_debug_feature_flags_manager_title">Manager ознака функција</string>
-  <string name="morphe_debug_feature_flags_manager_summary">Управљај буловским ознакама функција</string>
-  <string name="morphe_debug_feature_flags_manager_active_header">Активне заставице (%d)</string>
-  <string name="morphe_debug_feature_flags_manager_blocked_header">Блокиране заставице (%d)</string>
-  <string name="morphe_debug_feature_flags_manager_search_hint">Претражи заставице...</string>
-  <string name="morphe_debug_feature_flags_manager_toast_saved">Заставице сачуване</string>
-  <string name="morphe_debug_feature_flags_manager_toast_reset">Заставице ресетоване</string>
-  <string name="morphe_debug_feature_flags_manager_toast_copied">Заставице копиране у оставу</string>
-  <string name="morphe_debug_feature_flags_manager_toast_no_flags">Поново покрените апликацију да бисте користили ову функцију</string>
+  <string name="silva_debug_export_logs_to_clipboard_title">Извези евиденције отклањања грешака</string>
+  <string name="silva_debug_export_logs_to_clipboard_summary">Копира евиденције отклањања грешака Silva-а у привремену меморију</string>
+  <string name="silva_debug_logs_disabled">Евидентирање отклањања грешака је онемогућено</string>
+  <string name="silva_debug_logs_none_found">Нема пронађених евиденција</string>
+  <string name="silva_debug_logs_copied_to_clipboard">Евиденције су копиране</string>
+  <string name="silva_debug_logs_failed_to_export">Неуспешан извоз евиденција: %s</string>
+  <string name="silva_debug_logs_clear_buffer_title">Избриши евиденције отклањања грешака</string>
+  <string name="silva_debug_logs_clear_buffer_summary">Брише све сачуване евиденције отклањања грешака Silva-а</string>
+  <string name="silva_debug_logs_clear_toast">Евиденције су избрисане</string>
+  <string name="silva_debug_feature_flags_manager_title">Manager ознака функција</string>
+  <string name="silva_debug_feature_flags_manager_summary">Управљај буловским ознакама функција</string>
+  <string name="silva_debug_feature_flags_manager_active_header">Активне заставице (%d)</string>
+  <string name="silva_debug_feature_flags_manager_blocked_header">Блокиране заставице (%d)</string>
+  <string name="silva_debug_feature_flags_manager_search_hint">Претражи заставице...</string>
+  <string name="silva_debug_feature_flags_manager_toast_saved">Заставице сачуване</string>
+  <string name="silva_debug_feature_flags_manager_toast_reset">Заставице ресетоване</string>
+  <string name="silva_debug_feature_flags_manager_toast_copied">Заставице копиране у оставу</string>
+  <string name="silva_debug_feature_flags_manager_toast_no_flags">Поново покрените апликацију да бисте користили ову функцију</string>
   <!-- Could be its own resource file, but for simplicity it's shared among all apps. -->
   <!-- misc.gms.gmsCoreSupportResourcePatch -->
   <string name="microg_settings_summary">Otvorite postavke MicroG</string>
@@ -138,10 +138,10 @@ Second \"item\" text"</string>
 
 Додирните дугму \"Настави\" и дозволите промене у оптимизацији батерије."</string>
   <string name="gms_core_dialog_continue_text">Настави</string>
-  <string name="morphe_gms_core_battery_optimization_dialog_title">Дијалог о оптимизацији батерије</string>
-  <string name="morphe_gms_core_battery_optimization_dialog_summary_on">Показан је дијалог о оптимизацији батерије MicroG</string>
-  <string name="morphe_gms_core_battery_optimization_dialog_summary_off">Дијалог о оптимизацији батерије MicroG није приказан</string>
-  <string name="morphe_gms_core_battery_optimization_dialog_user_dialog_message">"Онеомагућивање ове опције спречиће појаву промпта за оптимизацију батерије MicroG.
+  <string name="silva_gms_core_battery_optimization_dialog_title">Дијалог о оптимизацији батерије</string>
+  <string name="silva_gms_core_battery_optimization_dialog_summary_on">Показан је дијалог о оптимизацији батерије MicroG</string>
+  <string name="silva_gms_core_battery_optimization_dialog_summary_off">Дијалог о оптимизацији батерије MicroG није приказан</string>
+  <string name="silva_gms_core_battery_optimization_dialog_user_dialog_message">"Онеомагућивање ове опције спречиће појаву промпта за оптимизацију батерије MicroG.
 
 Ако се оптимизације батерије не промене, може доћи до:
 • Сталног затварања апликације

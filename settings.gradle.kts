@@ -1,4 +1,4 @@
-rootProject.name = "morphe-patches"
+rootProject.name = "silva-patches"
 
 pluginManagement {
     repositories {
@@ -25,7 +25,7 @@ plugins {
 
 settings {
     extensions {
-        defaultNamespace = "app.morphe.extension"
+        defaultNamespace = "app.silva.extension"
 
         // Must resolve to an absolute path (not relative),
         // otherwise the extensions in subfolders will fail to find the proguard config.

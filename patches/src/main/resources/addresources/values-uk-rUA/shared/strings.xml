@@ -17,108 +17,108 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsResourcePatch -->
-  <string name="morphe_settings_submenu_title">Налаштування</string>
-  <string name="morphe_settings_confirm_user_dialog_title">Ви впевнені, що хочете продовжити?</string>
-  <string name="morphe_settings_save">Зберегти</string>
-  <string name="morphe_settings_reset">Скинути</string>
-  <string name="morphe_settings_reset_color">Скинути колір</string>
-  <string name="morphe_settings_color_invalid">Недійсний колір</string>
-  <string name="morphe_settings_restart_title">Потрібен перезапуск</string>
-  <string name="morphe_settings_restart_dialog_message">Перезапустіть застосунок, щоб зміни набули чинності.</string>
-  <string name="morphe_settings_restart">Перезавантажити</string>
+  <string name="silva_settings_submenu_title">Налаштування</string>
+  <string name="silva_settings_confirm_user_dialog_title">Ви впевнені, що хочете продовжити?</string>
+  <string name="silva_settings_save">Зберегти</string>
+  <string name="silva_settings_reset">Скинути</string>
+  <string name="silva_settings_reset_color">Скинути колір</string>
+  <string name="silva_settings_color_invalid">Недійсний колір</string>
+  <string name="silva_settings_restart_title">Потрібен перезапуск</string>
+  <string name="silva_settings_restart_dialog_message">Перезапустіть застосунок, щоб зміни набули чинності.</string>
+  <string name="silva_settings_restart">Перезавантажити</string>
   <!-- String is also duplicated in Reddit import / export preference -->
-  <string name="morphe_settings_import">Імпорт</string>
-  <string name="morphe_settings_import_copy">Копіювати</string>
-  <string name="morphe_settings_import_reset">Налаштування Morphe скинуто до стандартних</string>
-  <string name="morphe_settings_import_success">Імпортовано %d налаштувань</string>
-  <string name="morphe_settings_import_failure_parse">Не вдалося імпортувати: %s</string>
-  <string name="morphe_settings_search_hint">Пошук налаштувань</string>
-  <string name="morphe_settings_search_no_results_title">За запитом \'%s\' нічого не знайдено</string>
-  <string name="morphe_settings_search_no_results_summary">Спробуйте інше ключове слово</string>
-  <string name="morphe_settings_search_recent_searches">Нещодавні пошуки</string>
-  <string name="morphe_settings_search_remove_message">Видалити з історії пошуку?</string>
-  <string name="morphe_settings_search_clear_history">Очистити історію пошуку</string>
-  <string name="morphe_settings_search_clear_history_message">Ви впевнені, що хочете очистити всю історію пошуку?</string>
-  <string name="morphe_settings_search_tips_title">Поради щодо пошуку</string>
-  <string name="morphe_settings_search_tips_summary">"• Натисніть на шлях, щоб відкрити його
+  <string name="silva_settings_import">Імпорт</string>
+  <string name="silva_settings_import_copy">Копіювати</string>
+  <string name="silva_settings_import_reset">Налаштування Silva скинуто до стандартних</string>
+  <string name="silva_settings_import_success">Імпортовано %d налаштувань</string>
+  <string name="silva_settings_import_failure_parse">Не вдалося імпортувати: %s</string>
+  <string name="silva_settings_search_hint">Пошук налаштувань</string>
+  <string name="silva_settings_search_no_results_title">За запитом \'%s\' нічого не знайдено</string>
+  <string name="silva_settings_search_no_results_summary">Спробуйте інше ключове слово</string>
+  <string name="silva_settings_search_recent_searches">Нещодавні пошуки</string>
+  <string name="silva_settings_search_remove_message">Видалити з історії пошуку?</string>
+  <string name="silva_settings_search_clear_history">Очистити історію пошуку</string>
+  <string name="silva_settings_search_clear_history_message">Ви впевнені, що хочете очистити всю історію пошуку?</string>
+  <string name="silva_settings_search_tips_title">Поради щодо пошуку</string>
+  <string name="silva_settings_search_tips_summary">"• Натисніть на шлях, щоб відкрити його
 • Натисніть і утримуйте налаштування, щоб перейти до нього
 • Натисніть Enter, щоб зберегти пошуковий запит в історію
 • Пошук ігнорує регістр і розділові знаки
 • Батьківські налаштування показуються над вимкненими дочірніми налаштуваннями"</string>
-  <string name="morphe_settings_search_empty_history_title">Історія пошуку порожня</string>
-  <string name="morphe_settings_search_empty_history_summary">Щоб зберегти історію пошуку, введіть пошуковий запит і натисніть Enter</string>
-  <string name="morphe_settings_search_history_title">Показувати історію пошуку налаштувань</string>
-  <string name="morphe_settings_search_history_summary_on">Історія пошуку налаштувань показується</string>
-  <string name="morphe_settings_search_history_summary_off">Історія пошуку налаштувань не показується</string>
-  <string name="morphe_show_menu_icons_title">Показувати іконки в налаштуваннях Morphe</string>
-  <string name="morphe_show_menu_icons_summary_on">Іконки в налаштуваннях показуються</string>
-  <string name="morphe_show_menu_icons_summary_off">Іконки в налаштуваннях не показуються</string>
-  <string name="morphe_language_title">Мова налаштувань Morphe</string>
-  <string name="morphe_language_user_dialog_message">"Переклади для деяких мов можуть бути неповними або відсутніми.
+  <string name="silva_settings_search_empty_history_title">Історія пошуку порожня</string>
+  <string name="silva_settings_search_empty_history_summary">Щоб зберегти історію пошуку, введіть пошуковий запит і натисніть Enter</string>
+  <string name="silva_settings_search_history_title">Показувати історію пошуку налаштувань</string>
+  <string name="silva_settings_search_history_summary_on">Історія пошуку налаштувань показується</string>
+  <string name="silva_settings_search_history_summary_off">Історія пошуку налаштувань не показується</string>
+  <string name="silva_show_menu_icons_title">Показувати іконки в налаштуваннях Silva</string>
+  <string name="silva_show_menu_icons_summary_on">Іконки в налаштуваннях показуються</string>
+  <string name="silva_show_menu_icons_summary_off">Іконки в налаштуваннях не показуються</string>
+  <string name="silva_language_title">Мова налаштувань Silva</string>
+  <string name="silva_language_user_dialog_message">"Переклади для деяких мов можуть бути неповними або відсутніми.
 
-Щоб перекласти нові мови або покращити наявні переклади, відвідайте morphe.software/translate"</string>
-  <string name="morphe_language_DEFAULT">Мова застосунку</string>
-  <string name="morphe_pref_import_export_title">Імпорт / Експорт налаштувань</string>
-  <string name="morphe_pref_import_export_summary">Імпорт / Експорт налаштувань Morphe\n\nДля збереження налаштувань скопіюйте текст у вікні кнопкою \"Копіювати\" та збережіть його в текстовому файлі.\nДля відновлення налаштувань вставте у вікно збережений раніше текст та натисніть кнопку \"Імпортувати\"</string>
-  <string name="morphe_settings_import_file">Імпорт з файлу</string>
-  <string name="morphe_settings_import_file_success">Налаштування успішно імпортовано, натисніть \"Зберегти\", щоб застосувати</string>
-  <string name="morphe_settings_import_file_failed">Не вдалося імпортувати налаштування</string>
-  <string name="morphe_settings_export_file">Експорт до файлу</string>
-  <string name="morphe_settings_export_file_success">Налаштування успішно експортовано</string>
-  <string name="morphe_settings_export_file_failed">Не вдалося експортувати налаштування</string>
+Щоб перекласти нові мови або покращити наявні переклади, відвідайте silva.software/translate"</string>
+  <string name="silva_language_DEFAULT">Мова застосунку</string>
+  <string name="silva_pref_import_export_title">Імпорт / Експорт налаштувань</string>
+  <string name="silva_pref_import_export_summary">Імпорт / Експорт налаштувань Silva\n\nДля збереження налаштувань скопіюйте текст у вікні кнопкою \"Копіювати\" та збережіть його в текстовому файлі.\nДля відновлення налаштувань вставте у вікно збережений раніше текст та натисніть кнопку \"Імпортувати\"</string>
+  <string name="silva_settings_import_file">Імпорт з файлу</string>
+  <string name="silva_settings_import_file_success">Налаштування успішно імпортовано, натисніть \"Зберегти\", щоб застосувати</string>
+  <string name="silva_settings_import_file_failed">Не вдалося імпортувати налаштування</string>
+  <string name="silva_settings_export_file">Експорт до файлу</string>
+  <string name="silva_settings_export_file_success">Налаштування успішно експортовано</string>
+  <string name="silva_settings_export_file_failed">Не вдалося експортувати налаштування</string>
   <!-- String is also duplicated in Reddit about preference -->
-  <string name="morphe_settings_about_links_body_version_current">Ви використовуєте останню версію Morphe Patches &lt;i&gt;%s&lt;/i&gt;</string>
-  <string name="morphe_settings_about_links_body_version_outdated">Ви використовуєте Morphe Patches версії &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Доступне оновлення: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Щоб оновити ваші патчі, скористайтесь Morphe для повторного патчінгу цього застосунку</string>
-  <string name="morphe_settings_about_links_dev_header">Примітка</string>
-  <string name="morphe_settings_about_links_dev_body">Ця версія є передрелізною, і її робота може бути нестабільною</string>
-  <string name="morphe_settings_about_links_header">Офіційні посилання</string>
-  <string name="morphe_settings_about_links_website">Вебсайт</string>
-  <string name="morphe_settings_about_links_donate">Підтримати</string>
-  <string name="morphe_settings_about_links_translations">Переклади</string>
-  <string name="morphe_settings_about_links_credits">Подяки</string>
-  <string name="morphe_settings_about_links_dev_header_up_to_date">В актуальному стані</string>
-  <string name="morphe_settings_about_links_dev_header_update_available">Доступне оновлення</string>
-  <string name="morphe_settings_about_contributors_current">Поточна розробка</string>
-  <string name="morphe_settings_about_contributors_prior">Попередня розробка</string>
-  <string name="morphe_settings_about_links_morphe">Активна розробка</string>
-  <string name="morphe_settings_about_links_rvx">2022 &#8209; 2025</string>
-  <string name="morphe_settings_about_links_rv">2022 &#8209; 2025</string>
-  <string name="morphe_settings_about_links_vanced">2019 &#8209; 2022</string>
-  <string name="morphe_settings_about_links_licenses">Ліцензії відкритого коду</string>
-  <string name="morphe_settings_about_licenses_loading">Завантаження...</string>
+  <string name="silva_settings_about_links_body_version_current">Ви використовуєте останню версію Silva Patches &lt;i&gt;%s&lt;/i&gt;</string>
+  <string name="silva_settings_about_links_body_version_outdated">Ви використовуєте Silva Patches версії &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Доступне оновлення: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Щоб оновити ваші патчі, скористайтесь Silva для повторного патчінгу цього застосунку</string>
+  <string name="silva_settings_about_links_dev_header">Примітка</string>
+  <string name="silva_settings_about_links_dev_body">Ця версія є передрелізною, і її робота може бути нестабільною</string>
+  <string name="silva_settings_about_links_header">Офіційні посилання</string>
+  <string name="silva_settings_about_links_website">Вебсайт</string>
+  <string name="silva_settings_about_links_donate">Підтримати</string>
+  <string name="silva_settings_about_links_translations">Переклади</string>
+  <string name="silva_settings_about_links_credits">Подяки</string>
+  <string name="silva_settings_about_links_dev_header_up_to_date">В актуальному стані</string>
+  <string name="silva_settings_about_links_dev_header_update_available">Доступне оновлення</string>
+  <string name="silva_settings_about_contributors_current">Поточна розробка</string>
+  <string name="silva_settings_about_contributors_prior">Попередня розробка</string>
+  <string name="silva_settings_about_links_silva">Активна розробка</string>
+  <string name="silva_settings_about_links_rvx">2022 &#8209; 2025</string>
+  <string name="silva_settings_about_links_rv">2022 &#8209; 2025</string>
+  <string name="silva_settings_about_links_vanced">2019 &#8209; 2022</string>
+  <string name="silva_settings_about_links_licenses">Ліцензії відкритого коду</string>
+  <string name="silva_settings_about_licenses_loading">Завантаження...</string>
   <!-- misc.debugging.enableDebuggingPatch -->
-  <string name="morphe_debug_screen_title">Налагодження</string>
-  <string name="morphe_debug_screen_summary">Увімкнення або вимкнення параметрів налагодження</string>
-  <string name="morphe_debug_title">Журнал налагодження</string>
-  <string name="morphe_debug_summary_on">Журнали налагодження ввімкнено</string>
-  <string name="morphe_debug_summary_off">Журнали налагодження вимкнено</string>
-  <string name="morphe_debug_stacktrace_title">Реєструвати трасування стека</string>
-  <string name="morphe_debug_stacktrace_summary_on">Журнали налагодження містять трасування стека</string>
-  <string name="morphe_debug_stacktrace_summary_off">Журнали налагодження не містять трасування стека</string>
-  <string name="morphe_debug_toast_on_error_title">Показати повідомлення про помилку Morphe</string>
-  <string name="morphe_debug_toast_on_error_summary_on">Повідомлення показується, якщо сталася помилка</string>
-  <string name="morphe_debug_toast_on_error_summary_off">Повідомлення не показується, якщо сталася помилка</string>
-  <string name="morphe_debug_toast_on_error_user_dialog_message">"Вимкнення сповіщень про помилки приховує всі сповіщення про помилки Morphe.
+  <string name="silva_debug_screen_title">Налагодження</string>
+  <string name="silva_debug_screen_summary">Увімкнення або вимкнення параметрів налагодження</string>
+  <string name="silva_debug_title">Журнал налагодження</string>
+  <string name="silva_debug_summary_on">Журнали налагодження ввімкнено</string>
+  <string name="silva_debug_summary_off">Журнали налагодження вимкнено</string>
+  <string name="silva_debug_stacktrace_title">Реєструвати трасування стека</string>
+  <string name="silva_debug_stacktrace_summary_on">Журнали налагодження містять трасування стека</string>
+  <string name="silva_debug_stacktrace_summary_off">Журнали налагодження не містять трасування стека</string>
+  <string name="silva_debug_toast_on_error_title">Показати повідомлення про помилку Silva</string>
+  <string name="silva_debug_toast_on_error_summary_on">Повідомлення показується, якщо сталася помилка</string>
+  <string name="silva_debug_toast_on_error_summary_off">Повідомлення не показується, якщо сталася помилка</string>
+  <string name="silva_debug_toast_on_error_user_dialog_message">"Вимкнення сповіщень про помилки приховує всі сповіщення про помилки Silva.
 
 Ви не будете отримувати сповіщення про будь-які непередбачувані події."</string>
-  <string name="morphe_debug_export_logs_to_clipboard_title">Експортувати журнали налагодження</string>
-  <string name="morphe_debug_export_logs_to_clipboard_summary">Копіює журнали налагодження Morphe до буфера обміну</string>
-  <string name="morphe_debug_logs_disabled">Журнали налагодження вимкнено</string>
-  <string name="morphe_debug_logs_none_found">Журнали не знайдено</string>
-  <string name="morphe_debug_logs_copied_to_clipboard">Журнали скопійовано</string>
-  <string name="morphe_debug_logs_failed_to_export">Не вдалося експортувати журнали: %s</string>
-  <string name="morphe_debug_logs_clear_buffer_title">Очистити журнали налагодження</string>
-  <string name="morphe_debug_logs_clear_buffer_summary">Очищує всі збережені журнали налагодження Morphe</string>
-  <string name="morphe_debug_logs_clear_toast">Журнали очищено</string>
-  <string name="morphe_debug_feature_flags_manager_title">Менеджер експериментальних прапорців</string>
-  <string name="morphe_debug_feature_flags_manager_summary">Керувати експериментальними boolean прапорцями</string>
-  <string name="morphe_debug_feature_flags_manager_active_header">Активні (%d)</string>
-  <string name="morphe_debug_feature_flags_manager_blocked_header">Заблоковані (%d)</string>
-  <string name="morphe_debug_feature_flags_manager_search_hint">Пошук прапорців...</string>
-  <string name="morphe_debug_feature_flags_manager_toast_saved">Прапорці збережено</string>
-  <string name="morphe_debug_feature_flags_manager_toast_reset">Прапорці скинуто</string>
-  <string name="morphe_debug_feature_flags_manager_toast_copied">Прапорці скопійовано до буфера обміну</string>
-  <string name="morphe_debug_feature_flags_manager_toast_no_flags">Перезапустіть застосунок, щоб скористатися цією функцією</string>
+  <string name="silva_debug_export_logs_to_clipboard_title">Експортувати журнали налагодження</string>
+  <string name="silva_debug_export_logs_to_clipboard_summary">Копіює журнали налагодження Silva до буфера обміну</string>
+  <string name="silva_debug_logs_disabled">Журнали налагодження вимкнено</string>
+  <string name="silva_debug_logs_none_found">Журнали не знайдено</string>
+  <string name="silva_debug_logs_copied_to_clipboard">Журнали скопійовано</string>
+  <string name="silva_debug_logs_failed_to_export">Не вдалося експортувати журнали: %s</string>
+  <string name="silva_debug_logs_clear_buffer_title">Очистити журнали налагодження</string>
+  <string name="silva_debug_logs_clear_buffer_summary">Очищує всі збережені журнали налагодження Silva</string>
+  <string name="silva_debug_logs_clear_toast">Журнали очищено</string>
+  <string name="silva_debug_feature_flags_manager_title">Менеджер експериментальних прапорців</string>
+  <string name="silva_debug_feature_flags_manager_summary">Керувати експериментальними boolean прапорцями</string>
+  <string name="silva_debug_feature_flags_manager_active_header">Активні (%d)</string>
+  <string name="silva_debug_feature_flags_manager_blocked_header">Заблоковані (%d)</string>
+  <string name="silva_debug_feature_flags_manager_search_hint">Пошук прапорців...</string>
+  <string name="silva_debug_feature_flags_manager_toast_saved">Прапорці збережено</string>
+  <string name="silva_debug_feature_flags_manager_toast_reset">Прапорці скинуто</string>
+  <string name="silva_debug_feature_flags_manager_toast_copied">Прапорці скопійовано до буфера обміну</string>
+  <string name="silva_debug_feature_flags_manager_toast_no_flags">Перезапустіть застосунок, щоб скористатися цією функцією</string>
   <!-- Could be its own resource file, but for simplicity it's shared among all apps. -->
   <!-- misc.gms.gmsCoreSupportResourcePatch -->
   <string name="microg_settings_summary">Відкриває налаштування MicroG</string>
@@ -138,10 +138,10 @@ Second \"item\" text"</string>
 
 Натисніть кнопку \"Продовжити\" та вимкніть оптимізацію."</string>
   <string name="gms_core_dialog_continue_text">Продовжити</string>
-  <string name="morphe_gms_core_battery_optimization_dialog_title">Діалогове вікно оптимізації батареї</string>
-  <string name="morphe_gms_core_battery_optimization_dialog_summary_on">Діалогове вікно оптимізації батареї MicroG показується</string>
-  <string name="morphe_gms_core_battery_optimization_dialog_summary_off">Діалогове вікно оптимізації батареї MicroG не показується</string>
-  <string name="morphe_gms_core_battery_optimization_dialog_user_dialog_message">"Якщо вимкнути цю функцію, запит на оптимізацію батареї MicroG буде приховано.
+  <string name="silva_gms_core_battery_optimization_dialog_title">Діалогове вікно оптимізації батареї</string>
+  <string name="silva_gms_core_battery_optimization_dialog_summary_on">Діалогове вікно оптимізації батареї MicroG показується</string>
+  <string name="silva_gms_core_battery_optimization_dialog_summary_off">Діалогове вікно оптимізації батареї MicroG не показується</string>
+  <string name="silva_gms_core_battery_optimization_dialog_user_dialog_message">"Якщо вимкнути цю функцію, запит на оптимізацію батареї MicroG буде приховано.
 
 Якщо оптимізацію батареї не змінити, ви можете зіткнутися з такими проблемами:
 • Застосунок може випадково закриватися

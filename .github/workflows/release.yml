@@ -53,7 +53,7 @@ jobs:
         if: steps.release.outputs.new_release_published == 'true'
         uses: actions/attest-build-provenance@v3
         with:
-          subject-name: 'Morphe Patches ${{ steps.release.outputs.new_release_git_tag }}'
+          subject-name: 'Silva Patches ${{ steps.release.outputs.new_release_git_tag }}'
           subject-path: patches/build/libs/patches-*.mpp
 
       - name: Generate website deploy token
@@ -61,9 +61,9 @@ jobs:
         id: app-token
         uses: actions/create-github-app-token@v2
         with:
-          app-id: ${{ vars.MORPHE_AAMATT_APP_ID }}
+          app-id: ${{ vars.SILVA_AAMATT_APP_ID }}
           private-key: ${{ secrets.WEBSITE_DISPATCH_TOKEN }}
-          owner: MorpheApp
+          owner: SilvaTechB
 
       - name: Trigger website deploy
         if: steps.release.outputs.new_release_published == 'true'
@@ -72,8 +72,8 @@ jobs:
           github-token: ${{ steps.app-token.outputs.token }}
           script: |
             await github.rest.repos.createDispatchEvent({
-              owner: 'MorpheApp',
-              repo: 'morphe-website',
+              owner: 'SilvaTechB',
+              repo: 'silva-website',
               event_type: 'trigger-deploy'
             })
 

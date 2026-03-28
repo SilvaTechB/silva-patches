@@ -18,81 +18,81 @@ Second \"item\" text"</string>
 <resources>
   <!-- layout.branding.customBrandingPatch -->
   <!-- layout.branding.header.changeHeaderPatch -->
-  <string name="morphe_header_logo_entry_3">ផ្ទាល់ខ្លួន</string>
+  <string name="silva_header_logo_entry_3">ផ្ទាល់ខ្លួន</string>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
-  <string name="morphe_settings_music_screen_0_about_title">អំពីកម្មវិធីនេះ</string>
-  <string name="morphe_settings_music_screen_1_ads_title">ពាណិជ្ជកម្ម</string>
-  <string name="morphe_settings_music_screen_2_general_title">ជាទូទៅ</string>
-  <string name="morphe_settings_music_screen_3_player_title">ការីចាក់</string>
-  <string name="morphe_settings_music_screen_4_misc_title">ផ្សេងៗទៀត</string>
+  <!-- In languages where "About" is ambiguous, translate this as "About Silva" (i.e., About this app). -->
+  <string name="silva_settings_music_screen_0_about_title">អំពីកម្មវិធីនេះ</string>
+  <string name="silva_settings_music_screen_1_ads_title">ពាណិជ្ជកម្ម</string>
+  <string name="silva_settings_music_screen_2_general_title">ជាទូទៅ</string>
+  <string name="silva_settings_music_screen_3_player_title">ការីចាក់</string>
+  <string name="silva_settings_music_screen_4_misc_title">ផ្សេងៗទៀត</string>
   <!-- ad.video.hideVideoAdsPatch -->
-  <string name="morphe_music_hide_video_ads_title">លាក់វីដេអូពាណិជ្ជកម្មតាមវីដេអូ</string>
-  <string name="morphe_music_hide_video_ads_summary_on">ពាណិជ្ជកម្មតាមវីដេអូត្រូវបានលាក់</string>
-  <string name="morphe_music_hide_video_ads_summary_off">ពាណិជ្ជកម្មតាមវីដេអូត្រូវបានបង្ហាញ</string>
+  <string name="silva_music_hide_video_ads_title">លាក់វីដេអូពាណិជ្ជកម្មតាមវីដេអូ</string>
+  <string name="silva_music_hide_video_ads_summary_on">ពាណិជ្ជកម្មតាមវីដេអូត្រូវបានលាក់</string>
+  <string name="silva_music_hide_video_ads_summary_off">ពាណិជ្ជកម្មតាមវីដេអូត្រូវបានបង្ហាញ</string>
   <!-- interaction.permanentrepeat.permanentRepeatPatch -->
-  <string name="morphe_music_play_permanent_repeat_title">បើកមុខងារសាឡើងវិញជាអចិន្ត្រៃយ៍</string>
-  <string name="morphe_music_play_permanent_repeat_summary_on">មុខងារសាឡើងវិញជាអចិន្ត្រៃយ៍ត្រូវបានបើក</string>
-  <string name="morphe_music_play_permanent_repeat_summary_off">មុខងារសាឡើងវិញជាអចិន្ត្រៃយ៍ត្រូវបានផ្ដាច់</string>
+  <string name="silva_music_play_permanent_repeat_title">បើកមុខងារសាឡើងវិញជាអចិន្ត្រៃយ៍</string>
+  <string name="silva_music_play_permanent_repeat_summary_on">មុខងារសាឡើងវិញជាអចិន្ត្រៃយ៍ត្រូវបានបើក</string>
+  <string name="silva_music_play_permanent_repeat_summary_off">មុខងារសាឡើងវិញជាអចិន្ត្រៃយ៍ត្រូវបានផ្ដាច់</string>
   <!-- layout.buttons.hideButtons -->
-  <string name="morphe_music_hide_cast_button_title">លាក់ប៊ូតុងផ្សាយ</string>
-  <string name="morphe_music_hide_cast_button_summary_on">ប៊ូតុងផ្សាយត្រូវបានលាក់</string>
-  <string name="morphe_music_hide_cast_button_summary_off">ប៊ូតុងផ្សាយត្រូវបានបង្ហាញ</string>
-  <string name="morphe_music_hide_history_button_title">លាក់ប៊ូតុងប្រវត្តិ</string>
-  <string name="morphe_music_hide_history_button_summary_on">ប៊ូតុងប្រវត្តិត្រូវបានលាក់</string>
-  <string name="morphe_music_hide_history_button_summary_off">ប៊ូតុងប្រវត្តិត្រូវបានបង្ហាញ</string>
-  <string name="morphe_music_hide_notification_button_title">លាក់ប៊ូតុងជូនដំណឹង</string>
-  <string name="morphe_music_hide_notification_button_summary_on">ប៊ូតុងជូនដំណឹងត្រូវបានលាក់</string>
-  <string name="morphe_music_hide_notification_button_summary_off">ប៊ូតុងជូនដំណឹងត្រូវបានបង្ហាញ</string>
-  <string name="morphe_music_hide_search_button_title">លាក់ប៊ូតុងស្វែងរក</string>
-  <string name="morphe_music_hide_search_button_summary_on">ប៊ូតុងស្វែងរកត្រូវបានលាក់</string>
-  <string name="morphe_music_hide_search_button_summary_off">ប៊ូតុងស្វែងរកត្រូវបានបង្ហាញ</string>
+  <string name="silva_music_hide_cast_button_title">លាក់ប៊ូតុងផ្សាយ</string>
+  <string name="silva_music_hide_cast_button_summary_on">ប៊ូតុងផ្សាយត្រូវបានលាក់</string>
+  <string name="silva_music_hide_cast_button_summary_off">ប៊ូតុងផ្សាយត្រូវបានបង្ហាញ</string>
+  <string name="silva_music_hide_history_button_title">លាក់ប៊ូតុងប្រវត្តិ</string>
+  <string name="silva_music_hide_history_button_summary_on">ប៊ូតុងប្រវត្តិត្រូវបានលាក់</string>
+  <string name="silva_music_hide_history_button_summary_off">ប៊ូតុងប្រវត្តិត្រូវបានបង្ហាញ</string>
+  <string name="silva_music_hide_notification_button_title">លាក់ប៊ូតុងជូនដំណឹង</string>
+  <string name="silva_music_hide_notification_button_summary_on">ប៊ូតុងជូនដំណឹងត្រូវបានលាក់</string>
+  <string name="silva_music_hide_notification_button_summary_off">ប៊ូតុងជូនដំណឹងត្រូវបានបង្ហាញ</string>
+  <string name="silva_music_hide_search_button_title">លាក់ប៊ូតុងស្វែងរក</string>
+  <string name="silva_music_hide_search_button_summary_on">ប៊ូតុងស្វែងរកត្រូវបានលាក់</string>
+  <string name="silva_music_hide_search_button_summary_off">ប៊ូតុងស្វែងរកត្រូវបានបង្ហាញ</string>
   <!-- layout.startpage.changeStartPagePatch -->
   <!-- layout.compactheader.hideCategoryBar -->
-  <string name="morphe_music_hide_category_bar_title">លាក់របារប្រភេទ</string>
-  <string name="morphe_music_hide_category_bar_summary_on">របារប្រភេទត្រូវបានលាក់</string>
-  <string name="morphe_music_hide_category_bar_summary_off">របារប្រភេទត្រូវបានបង្ហាញ</string>
+  <string name="silva_music_hide_category_bar_title">លាក់របារប្រភេទ</string>
+  <string name="silva_music_hide_category_bar_summary_on">របារប្រភេទត្រូវបានលាក់</string>
+  <string name="silva_music_hide_category_bar_summary_off">របារប្រភេទត្រូវបានបង្ហាញ</string>
   <!-- layout.miniplayer.changeMiniplayerColor -->
-  <string name="morphe_music_change_miniplayer_color_title">ផ្លាស់ប្តូរពណ៌ការីចាក់ខ្នាតតូច</string>
-  <string name="morphe_music_change_miniplayer_color_summary_on">ពណ៌ការីចាក់ខ្នាតតូចផ្គូផ្គងនឹងការីចាក់ពេញអេក្រង់</string>
-  <string name="morphe_music_change_miniplayer_color_summary_off">ការីចាក់ខ្នាតតូចប្រើពណ៌បុរេជម្រើស</string>
+  <string name="silva_music_change_miniplayer_color_title">ផ្លាស់ប្តូរពណ៌ការីចាក់ខ្នាតតូច</string>
+  <string name="silva_music_change_miniplayer_color_summary_on">ពណ៌ការីចាក់ខ្នាតតូចផ្គូផ្គងនឹងការីចាក់ពេញអេក្រង់</string>
+  <string name="silva_music_change_miniplayer_color_summary_off">ការីចាក់ខ្នាតតូចប្រើពណ៌បុរេជម្រើស</string>
   <!-- layout.miniplayer.miniplayerNextPreviousButtons -->
   <!-- layout.miniplayer.enableForcedMiniplayer -->
   <!-- layout.navigationbar.navigationBarPatch -->
-  <string name="morphe_music_navigation_bar_screen_title">របាររុករក</string>
-  <string name="morphe_music_navigation_bar_screen_summary">លាក់ឬផ្លាស់ប្តូរប៊ូតុងរបាររុករក</string>
+  <string name="silva_music_navigation_bar_screen_title">របាររុករក</string>
+  <string name="silva_music_navigation_bar_screen_summary">លាក់ឬផ្លាស់ប្តូរប៊ូតុងរបាររុករក</string>
   <!-- 'Home' should be translated using the same localized wording YouTube Music displays for the tab. -->
-  <string name="morphe_music_hide_navigation_bar_home_button_title">លាក់ទំព័រដើម</string>
-  <string name="morphe_music_hide_navigation_bar_home_button_summary_on">ប៊ូតុងទំព័រដើមត្រូវបានលាក់</string>
-  <string name="morphe_music_hide_navigation_bar_home_button_summary_off">ប៊ូតុងទំព័រដើមត្រូវបានបង្ហាញ</string>
+  <string name="silva_music_hide_navigation_bar_home_button_title">លាក់ទំព័រដើម</string>
+  <string name="silva_music_hide_navigation_bar_home_button_summary_on">ប៊ូតុងទំព័រដើមត្រូវបានលាក់</string>
+  <string name="silva_music_hide_navigation_bar_home_button_summary_off">ប៊ូតុងទំព័រដើមត្រូវបានបង្ហាញ</string>
   <!-- 'Samples' should be translated using the same localized wording YouTube Music displays for the tab. -->
-  <string name="morphe_music_hide_navigation_bar_samples_button_title">លាក់គំរូ</string>
-  <string name="morphe_music_hide_navigation_bar_samples_button_summary_on">ប៊ូតុងគំរូត្រូវបានលាក់</string>
-  <string name="morphe_music_hide_navigation_bar_samples_button_summary_off">ប៊ូតុងគំរូត្រូវបានបង្ហាញ</string>
+  <string name="silva_music_hide_navigation_bar_samples_button_title">លាក់គំរូ</string>
+  <string name="silva_music_hide_navigation_bar_samples_button_summary_on">ប៊ូតុងគំរូត្រូវបានលាក់</string>
+  <string name="silva_music_hide_navigation_bar_samples_button_summary_off">ប៊ូតុងគំរូត្រូវបានបង្ហាញ</string>
   <!-- 'Explore' should be translated using the same localized wording YouTube Music displays for the tab. -->
-  <string name="morphe_music_hide_navigation_bar_explore_button_title">លាក់រុករក</string>
-  <string name="morphe_music_hide_navigation_bar_explore_button_summary_on">ប៊ូតុងរុករកត្រូវបានលាក់</string>
-  <string name="morphe_music_hide_navigation_bar_explore_button_summary_off">ប៊ូតុងរុករកត្រូវបានបង្ហាញ</string>
+  <string name="silva_music_hide_navigation_bar_explore_button_title">លាក់រុករក</string>
+  <string name="silva_music_hide_navigation_bar_explore_button_summary_on">ប៊ូតុងរុករកត្រូវបានលាក់</string>
+  <string name="silva_music_hide_navigation_bar_explore_button_summary_off">ប៊ូតុងរុករកត្រូវបានបង្ហាញ</string>
   <!-- 'Library' should be translated using the same localized wording YouTube Music displays for the tab. -->
-  <string name="morphe_music_hide_navigation_bar_library_button_title">លាក់បណ្ណាល័យ</string>
-  <string name="morphe_music_hide_navigation_bar_library_button_summary_on">ប៊ូតុងបណ្ណាល័យត្រូវបានលាក់</string>
-  <string name="morphe_music_hide_navigation_bar_library_button_summary_off">ប៊ូតុងបណ្ណាល័យត្រូវបានបង្ហាញ</string>
+  <string name="silva_music_hide_navigation_bar_library_button_title">លាក់បណ្ណាល័យ</string>
+  <string name="silva_music_hide_navigation_bar_library_button_summary_on">ប៊ូតុងបណ្ណាល័យត្រូវបានលាក់</string>
+  <string name="silva_music_hide_navigation_bar_library_button_summary_off">ប៊ូតុងបណ្ណាល័យត្រូវបានបង្ហាញ</string>
   <!-- 'Upgrade' should be translated using the same localized wording YouTube Music displays for the tab. -->
-  <string name="morphe_music_hide_navigation_bar_upgrade_button_title">លាក់អាប់ក្រេដ</string>
-  <string name="morphe_music_hide_navigation_bar_upgrade_button_summary_on">ប៊ូតុងអាប់ក្រេដត្រូវបានលាក់</string>
-  <string name="morphe_music_hide_navigation_bar_upgrade_button_summary_off">ប៊ូតុងអាប់ក្រេដត្រូវបានបង្ហាញ</string>
-  <string name="morphe_music_hide_navigation_bar_title">លាក់របាររុករក</string>
-  <string name="morphe_music_hide_navigation_bar_summary_on">របាររុករកត្រូវបានលាក់</string>
-  <string name="morphe_music_hide_navigation_bar_summary_off">របាររុករកត្រូវបានបង្ហាញ</string>
-  <string name="morphe_music_hide_navigation_bar_labels_title">លាក់ស្លាកប៊ូតុងរុករក</string>
-  <string name="morphe_music_hide_navigation_bar_labels_summary_on">ស្លាកត្រូវបានលាក់</string>
-  <string name="morphe_music_hide_navigation_bar_labels_summary_off">ស្លាកត្រូវបានបង្ហាញ</string>
+  <string name="silva_music_hide_navigation_bar_upgrade_button_title">លាក់អាប់ក្រេដ</string>
+  <string name="silva_music_hide_navigation_bar_upgrade_button_summary_on">ប៊ូតុងអាប់ក្រេដត្រូវបានលាក់</string>
+  <string name="silva_music_hide_navigation_bar_upgrade_button_summary_off">ប៊ូតុងអាប់ក្រេដត្រូវបានបង្ហាញ</string>
+  <string name="silva_music_hide_navigation_bar_title">លាក់របាររុករក</string>
+  <string name="silva_music_hide_navigation_bar_summary_on">របាររុករកត្រូវបានលាក់</string>
+  <string name="silva_music_hide_navigation_bar_summary_off">របាររុករកត្រូវបានបង្ហាញ</string>
+  <string name="silva_music_hide_navigation_bar_labels_title">លាក់ស្លាកប៊ូតុងរុករក</string>
+  <string name="silva_music_hide_navigation_bar_labels_summary_on">ស្លាកត្រូវបានលាក់</string>
+  <string name="silva_music_hide_navigation_bar_labels_summary_off">ស្លាកត្រូវបានបង្ហាញ</string>
   <!-- layout.premium.hideGetPremiumPatch -->
-  <string name="morphe_music_hide_get_premium_label_title">លាក់ស្លាក “ទទួលយក Music Premium”</string>
-  <string name="morphe_music_hide_get_premium_label_summary_on">ស្លាកត្រូវបានលាក់</string>
-  <string name="morphe_music_hide_get_premium_label_summary_off">ស្លាកត្រូវបានបង្ហាញ</string>
+  <string name="silva_music_hide_get_premium_label_title">លាក់ស្លាក “ទទួលយក Music Premium”</string>
+  <string name="silva_music_hide_get_premium_label_summary_on">ស្លាកត្រូវបានលាក់</string>
+  <string name="silva_music_hide_get_premium_label_summary_off">ស្លាកត្រូវបានបង្ហាញ</string>
   <!-- layout.upgradebutton.hideUpgradeButtonPatch -->
-  <string name="morphe_music_hide_upgrade_button_title">លាក់ប៊ូតុងអាប់ក្រេដ</string>
-  <string name="morphe_music_hide_upgrade_button_summary_on">ប៊ូតុងត្រូវបានលាក់</string>
-  <string name="morphe_music_hide_upgrade_button_summary_off">ប៊ូតុងត្រូវបានបង្ហាញ</string>
+  <string name="silva_music_hide_upgrade_button_title">លាក់ប៊ូតុងអាប់ក្រេដ</string>
+  <string name="silva_music_hide_upgrade_button_summary_on">ប៊ូតុងត្រូវបានលាក់</string>
+  <string name="silva_music_hide_upgrade_button_summary_off">ប៊ូតុងត្រូវបានបង្ហាញ</string>
 </resources>

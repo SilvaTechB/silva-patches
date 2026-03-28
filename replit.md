@@ -1,4 +1,4 @@
-# Morphe Patches
+# Silva Patches
 
 A Gradle/Kotlin multi-module build project that produces bytecode patches and extension libraries for Android applications (YouTube, YouTube Music, Reddit).
 
@@ -22,7 +22,7 @@ A Gradle/Kotlin multi-module build project that produces bytecode patches and ex
 ## Environment Setup
 
 ### Required Secrets
-- `GITHUB_TOKEN` — GitHub PAT with `read:packages` for the MorpheApp registry
+- `GITHUB_TOKEN` — GitHub PAT with `read:packages` for the SilvaTechB registry
 - `GITHUB_ACTOR` — GitHub username for the token owner
 
 ### Required Environment Variables
@@ -58,4 +58,11 @@ The `build.sh` script:
 
 ## Private Registry
 
-The `morphe-patcher` Gradle plugin is fetched from `maven.pkg.github.com/MorpheApp/registry` (private). Credentials are injected via `GITHUB_TOKEN` and `GITHUB_ACTOR` environment variables.
+The `morphe-patcher` Gradle plugin is fetched from `maven.pkg.github.com/MorpheApp/registry` (private, external dependency — this URL is not changed as it's an upstream dependency). Credentials are injected via `GITHUB_TOKEN` and `GITHUB_ACTOR` environment variables.
+
+## Branding
+
+- GitHub org: `SilvaTechB`
+- Repository: `silva-patches`
+- Package namespace: `app.silva`
+- Resource prefix: `silva_`

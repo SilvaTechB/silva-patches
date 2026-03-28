@@ -17,108 +17,108 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsResourcePatch -->
-  <string name="morphe_settings_submenu_title">Ajustes</string>
-  <string name="morphe_settings_confirm_user_dialog_title">¿Estás seguro de que quieres continuar?</string>
-  <string name="morphe_settings_save">Guardar</string>
-  <string name="morphe_settings_reset">Restablecer</string>
-  <string name="morphe_settings_reset_color">Restablecer color</string>
-  <string name="morphe_settings_color_invalid">Color no válido</string>
-  <string name="morphe_settings_restart_title">Reinicio necesario</string>
-  <string name="morphe_settings_restart_dialog_message">Reinicia la aplicación para que este cambio surta efecto.</string>
-  <string name="morphe_settings_restart">Reiniciar</string>
+  <string name="silva_settings_submenu_title">Ajustes</string>
+  <string name="silva_settings_confirm_user_dialog_title">¿Estás seguro de que quieres continuar?</string>
+  <string name="silva_settings_save">Guardar</string>
+  <string name="silva_settings_reset">Restablecer</string>
+  <string name="silva_settings_reset_color">Restablecer color</string>
+  <string name="silva_settings_color_invalid">Color no válido</string>
+  <string name="silva_settings_restart_title">Reinicio necesario</string>
+  <string name="silva_settings_restart_dialog_message">Reinicia la aplicación para que este cambio surta efecto.</string>
+  <string name="silva_settings_restart">Reiniciar</string>
   <!-- String is also duplicated in Reddit import / export preference -->
-  <string name="morphe_settings_import">Importar</string>
-  <string name="morphe_settings_import_copy">Copiar</string>
-  <string name="morphe_settings_import_reset">Ajustes de Morphe restablecidos a los valores predeterminados</string>
-  <string name="morphe_settings_import_success">Configuración importada de %d</string>
-  <string name="morphe_settings_import_failure_parse">Importación fallida: %s</string>
-  <string name="morphe_settings_search_hint">Buscar ajustes</string>
-  <string name="morphe_settings_search_no_results_title">No se encontraron resultados para «%s»</string>
-  <string name="morphe_settings_search_no_results_summary">Prueba con otra palabra clave</string>
-  <string name="morphe_settings_search_recent_searches">Búsquedas recientes</string>
-  <string name="morphe_settings_search_remove_message">¿Eliminar del historial de búsqueda?</string>
-  <string name="morphe_settings_search_clear_history">Borrar historial de búsqueda</string>
-  <string name="morphe_settings_search_clear_history_message">¿Estás seguro de que quieres borrar todo el historial de búsqueda?</string>
-  <string name="morphe_settings_search_tips_title">Consejos de búsqueda</string>
-  <string name="morphe_settings_search_tips_summary">"• Toca una ruta para navegar a ella
+  <string name="silva_settings_import">Importar</string>
+  <string name="silva_settings_import_copy">Copiar</string>
+  <string name="silva_settings_import_reset">Ajustes de Silva restablecidos a los valores predeterminados</string>
+  <string name="silva_settings_import_success">Configuración importada de %d</string>
+  <string name="silva_settings_import_failure_parse">Importación fallida: %s</string>
+  <string name="silva_settings_search_hint">Buscar ajustes</string>
+  <string name="silva_settings_search_no_results_title">No se encontraron resultados para «%s»</string>
+  <string name="silva_settings_search_no_results_summary">Prueba con otra palabra clave</string>
+  <string name="silva_settings_search_recent_searches">Búsquedas recientes</string>
+  <string name="silva_settings_search_remove_message">¿Eliminar del historial de búsqueda?</string>
+  <string name="silva_settings_search_clear_history">Borrar historial de búsqueda</string>
+  <string name="silva_settings_search_clear_history_message">¿Estás seguro de que quieres borrar todo el historial de búsqueda?</string>
+  <string name="silva_settings_search_tips_title">Consejos de búsqueda</string>
+  <string name="silva_settings_search_tips_summary">"• Toca una ruta para navegar a ella
 • Mantén pulsado un ajuste para navegar a él
 • Pulsa Enter para guardar una consulta de búsqueda en el historial
 • La búsqueda ignora mayúsculas/minúsculas y puntuación
 • Los ajustes principales aparecen sobre los ajustes secundarios deshabilitados"</string>
-  <string name="morphe_settings_search_empty_history_title">El historial de búsqueda está vacío</string>
-  <string name="morphe_settings_search_empty_history_summary">Para guardar el historial de búsqueda, escribe una consulta de búsqueda y pulsa Enter</string>
-  <string name="morphe_settings_search_history_title">Mostrar el historial de búsqueda de ajustes</string>
-  <string name="morphe_settings_search_history_summary_on">El historial de búsqueda de los ajustes es visible</string>
-  <string name="morphe_settings_search_history_summary_off">El historial de búsqueda de ajustes está oculto</string>
-  <string name="morphe_show_menu_icons_title">Mostrar iconos de configuración de Morphe</string>
-  <string name="morphe_show_menu_icons_summary_on">Se muestran los iconos de configuración</string>
-  <string name="morphe_show_menu_icons_summary_off">No se muestran los iconos de configuración</string>
-  <string name="morphe_language_title">Idioma de Morphe</string>
-  <string name="morphe_language_user_dialog_message">"Las traducciones para algunos idiomas pueden faltar o estar incompletas.
+  <string name="silva_settings_search_empty_history_title">El historial de búsqueda está vacío</string>
+  <string name="silva_settings_search_empty_history_summary">Para guardar el historial de búsqueda, escribe una consulta de búsqueda y pulsa Enter</string>
+  <string name="silva_settings_search_history_title">Mostrar el historial de búsqueda de ajustes</string>
+  <string name="silva_settings_search_history_summary_on">El historial de búsqueda de los ajustes es visible</string>
+  <string name="silva_settings_search_history_summary_off">El historial de búsqueda de ajustes está oculto</string>
+  <string name="silva_show_menu_icons_title">Mostrar iconos de configuración de Silva</string>
+  <string name="silva_show_menu_icons_summary_on">Se muestran los iconos de configuración</string>
+  <string name="silva_show_menu_icons_summary_off">No se muestran los iconos de configuración</string>
+  <string name="silva_language_title">Idioma de Silva</string>
+  <string name="silva_language_user_dialog_message">"Las traducciones para algunos idiomas pueden faltar o estar incompletas.
 
-Para traducir nuevos idiomas o mejorar las traducciones existentes, visita morphe.software/translate"</string>
-  <string name="morphe_language_DEFAULT">Idioma de la aplicación</string>
-  <string name="morphe_pref_import_export_title">Importar / Exportar</string>
-  <string name="morphe_pref_import_export_summary">Importar / Exportar ajustes de Morphe</string>
-  <string name="morphe_settings_import_file">Importar desde archivo</string>
-  <string name="morphe_settings_import_file_success">Ajustes importados correctamente, pulse \"Guardar\" para aplicar</string>
-  <string name="morphe_settings_import_file_failed">Error al importar los ajustes</string>
-  <string name="morphe_settings_export_file">Exportar a archivo</string>
-  <string name="morphe_settings_export_file_success">Ajustes exportados correctamente</string>
-  <string name="morphe_settings_export_file_failed">Error al exportar los ajustes</string>
+Para traducir nuevos idiomas o mejorar las traducciones existentes, visita silva.software/translate"</string>
+  <string name="silva_language_DEFAULT">Idioma de la aplicación</string>
+  <string name="silva_pref_import_export_title">Importar / Exportar</string>
+  <string name="silva_pref_import_export_summary">Importar / Exportar ajustes de Silva</string>
+  <string name="silva_settings_import_file">Importar desde archivo</string>
+  <string name="silva_settings_import_file_success">Ajustes importados correctamente, pulse \"Guardar\" para aplicar</string>
+  <string name="silva_settings_import_file_failed">Error al importar los ajustes</string>
+  <string name="silva_settings_export_file">Exportar a archivo</string>
+  <string name="silva_settings_export_file_success">Ajustes exportados correctamente</string>
+  <string name="silva_settings_export_file_failed">Error al exportar los ajustes</string>
   <!-- String is also duplicated in Reddit about preference -->
-  <string name="morphe_settings_about_links_body_version_current">Estás usando la última versión de Morphe Patches: &lt;i&gt;%s&lt;/i&gt;</string>
-  <string name="morphe_settings_about_links_body_version_outdated">Estás usando la versión de Morphe Patches: &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Actualización disponible: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Para actualizar tus parches, usa Morphe para volver a aplicar esta aplicación</string>
-  <string name="morphe_settings_about_links_dev_header">Nota</string>
-  <string name="morphe_settings_about_links_dev_body">Esta versión es preliminar y podrías experimentar problemas inesperados</string>
-  <string name="morphe_settings_about_links_header">Enlaces oficiales</string>
-  <string name="morphe_settings_about_links_website">Sitio web</string>
-  <string name="morphe_settings_about_links_donate">Donar</string>
-  <string name="morphe_settings_about_links_translations">Traducciones</string>
-  <string name="morphe_settings_about_links_credits">Créditos</string>
-  <string name="morphe_settings_about_links_dev_header_up_to_date">Actualizado</string>
-  <string name="morphe_settings_about_links_dev_header_update_available">Actualización disponible</string>
-  <string name="morphe_settings_about_contributors_current">Desarrollo actual</string>
-  <string name="morphe_settings_about_contributors_prior">Desarrollo anterior</string>
-  <string name="morphe_settings_about_links_morphe">Desarrollo activo</string>
-  <string name="morphe_settings_about_links_rvx">2022 – 2025</string>
-  <string name="morphe_settings_about_links_rv">2022 – 2025</string>
-  <string name="morphe_settings_about_links_vanced">2019 – 2022</string>
-  <string name="morphe_settings_about_links_licenses">Avisos de licencia</string>
-  <string name="morphe_settings_about_licenses_loading">Cargando...</string>
+  <string name="silva_settings_about_links_body_version_current">Estás usando la última versión de Silva Patches: &lt;i&gt;%s&lt;/i&gt;</string>
+  <string name="silva_settings_about_links_body_version_outdated">Estás usando la versión de Silva Patches: &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Actualización disponible: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Para actualizar tus parches, usa Silva para volver a aplicar esta aplicación</string>
+  <string name="silva_settings_about_links_dev_header">Nota</string>
+  <string name="silva_settings_about_links_dev_body">Esta versión es preliminar y podrías experimentar problemas inesperados</string>
+  <string name="silva_settings_about_links_header">Enlaces oficiales</string>
+  <string name="silva_settings_about_links_website">Sitio web</string>
+  <string name="silva_settings_about_links_donate">Donar</string>
+  <string name="silva_settings_about_links_translations">Traducciones</string>
+  <string name="silva_settings_about_links_credits">Créditos</string>
+  <string name="silva_settings_about_links_dev_header_up_to_date">Actualizado</string>
+  <string name="silva_settings_about_links_dev_header_update_available">Actualización disponible</string>
+  <string name="silva_settings_about_contributors_current">Desarrollo actual</string>
+  <string name="silva_settings_about_contributors_prior">Desarrollo anterior</string>
+  <string name="silva_settings_about_links_silva">Desarrollo activo</string>
+  <string name="silva_settings_about_links_rvx">2022 – 2025</string>
+  <string name="silva_settings_about_links_rv">2022 – 2025</string>
+  <string name="silva_settings_about_links_vanced">2019 – 2022</string>
+  <string name="silva_settings_about_links_licenses">Avisos de licencia</string>
+  <string name="silva_settings_about_licenses_loading">Cargando...</string>
   <!-- misc.debugging.enableDebuggingPatch -->
-  <string name="morphe_debug_screen_title">Depuración</string>
-  <string name="morphe_debug_screen_summary">Activar o desactivar las opciones de depuración</string>
-  <string name="morphe_debug_title">Registro de depuración</string>
-  <string name="morphe_debug_summary_on">Los registros de depuración están habilitados</string>
-  <string name="morphe_debug_summary_off">Los registros de depuración están desactivados</string>
-  <string name="morphe_debug_stacktrace_title">Registrar stack traces</string>
-  <string name="morphe_debug_stacktrace_summary_on">Los registros de depuración incluyen stack trace</string>
-  <string name="morphe_debug_stacktrace_summary_off">Los registros de depuración no incluyen stack trace</string>
-  <string name="morphe_debug_toast_on_error_title">Mostrar aviso de error en Morphe</string>
-  <string name="morphe_debug_toast_on_error_summary_on">Se mostrará un aviso si se produce un error</string>
-  <string name="morphe_debug_toast_on_error_summary_off">No se mostrará un aviso si se produce un error</string>
-  <string name="morphe_debug_toast_on_error_user_dialog_message">"Desactivar los avisos de error oculta todas las notificaciones de error de Morphe.
+  <string name="silva_debug_screen_title">Depuración</string>
+  <string name="silva_debug_screen_summary">Activar o desactivar las opciones de depuración</string>
+  <string name="silva_debug_title">Registro de depuración</string>
+  <string name="silva_debug_summary_on">Los registros de depuración están habilitados</string>
+  <string name="silva_debug_summary_off">Los registros de depuración están desactivados</string>
+  <string name="silva_debug_stacktrace_title">Registrar stack traces</string>
+  <string name="silva_debug_stacktrace_summary_on">Los registros de depuración incluyen stack trace</string>
+  <string name="silva_debug_stacktrace_summary_off">Los registros de depuración no incluyen stack trace</string>
+  <string name="silva_debug_toast_on_error_title">Mostrar aviso de error en Silva</string>
+  <string name="silva_debug_toast_on_error_summary_on">Se mostrará un aviso si se produce un error</string>
+  <string name="silva_debug_toast_on_error_summary_off">No se mostrará un aviso si se produce un error</string>
+  <string name="silva_debug_toast_on_error_user_dialog_message">"Desactivar los avisos de error oculta todas las notificaciones de error de Silva.
 
 No se le notificará de ningún evento inesperado."</string>
-  <string name="morphe_debug_export_logs_to_clipboard_title">Exportar registros de depuración</string>
-  <string name="morphe_debug_export_logs_to_clipboard_summary">Copia los registros de depuración de Morphe al portapapeles</string>
-  <string name="morphe_debug_logs_disabled">El registro de depuración está desactivado</string>
-  <string name="morphe_debug_logs_none_found">No se encontraron registros</string>
-  <string name="morphe_debug_logs_copied_to_clipboard">Registros copiados</string>
-  <string name="morphe_debug_logs_failed_to_export">Error al exportar registros: %s</string>
-  <string name="morphe_debug_logs_clear_buffer_title">Borrar registros de depuración</string>
-  <string name="morphe_debug_logs_clear_buffer_summary">Borra todos los registros de depuración de Morphe almacenados</string>
-  <string name="morphe_debug_logs_clear_toast">Registros borrados</string>
-  <string name="morphe_debug_feature_flags_manager_title">Manager de indicadores de funciones</string>
-  <string name="morphe_debug_feature_flags_manager_summary">Gestionar indicadores de funciones booleanos</string>
-  <string name="morphe_debug_feature_flags_manager_active_header">Banderas activas (%d)</string>
-  <string name="morphe_debug_feature_flags_manager_blocked_header">Banderas bloqueadas (%d)</string>
-  <string name="morphe_debug_feature_flags_manager_search_hint">Buscar banderas...</string>
-  <string name="morphe_debug_feature_flags_manager_toast_saved">Banderas guardadas</string>
-  <string name="morphe_debug_feature_flags_manager_toast_reset">Banderas restablecidas</string>
-  <string name="morphe_debug_feature_flags_manager_toast_copied">Banderas copiadas al portapapeles</string>
-  <string name="morphe_debug_feature_flags_manager_toast_no_flags">Reinicia la aplicación para usar esta característica</string>
+  <string name="silva_debug_export_logs_to_clipboard_title">Exportar registros de depuración</string>
+  <string name="silva_debug_export_logs_to_clipboard_summary">Copia los registros de depuración de Silva al portapapeles</string>
+  <string name="silva_debug_logs_disabled">El registro de depuración está desactivado</string>
+  <string name="silva_debug_logs_none_found">No se encontraron registros</string>
+  <string name="silva_debug_logs_copied_to_clipboard">Registros copiados</string>
+  <string name="silva_debug_logs_failed_to_export">Error al exportar registros: %s</string>
+  <string name="silva_debug_logs_clear_buffer_title">Borrar registros de depuración</string>
+  <string name="silva_debug_logs_clear_buffer_summary">Borra todos los registros de depuración de Silva almacenados</string>
+  <string name="silva_debug_logs_clear_toast">Registros borrados</string>
+  <string name="silva_debug_feature_flags_manager_title">Manager de indicadores de funciones</string>
+  <string name="silva_debug_feature_flags_manager_summary">Gestionar indicadores de funciones booleanos</string>
+  <string name="silva_debug_feature_flags_manager_active_header">Banderas activas (%d)</string>
+  <string name="silva_debug_feature_flags_manager_blocked_header">Banderas bloqueadas (%d)</string>
+  <string name="silva_debug_feature_flags_manager_search_hint">Buscar banderas...</string>
+  <string name="silva_debug_feature_flags_manager_toast_saved">Banderas guardadas</string>
+  <string name="silva_debug_feature_flags_manager_toast_reset">Banderas restablecidas</string>
+  <string name="silva_debug_feature_flags_manager_toast_copied">Banderas copiadas al portapapeles</string>
+  <string name="silva_debug_feature_flags_manager_toast_no_flags">Reinicia la aplicación para usar esta característica</string>
   <!-- Could be its own resource file, but for simplicity it's shared among all apps. -->
   <!-- misc.gms.gmsCoreSupportResourcePatch -->
   <string name="microg_settings_summary">Abrir la configuración de MicroG</string>
@@ -138,10 +138,10 @@ Deshabilitar las optimizaciones de batería para MicroG no tendrá un efecto neg
 
 Toca el botón continuar y permite los cambios de optimización."</string>
   <string name="gms_core_dialog_continue_text">Continuar</string>
-  <string name="morphe_gms_core_battery_optimization_dialog_title">Diálogo de optimización de la batería</string>
-  <string name="morphe_gms_core_battery_optimization_dialog_summary_on">El diálogo de optimización de batería de MicroG está visible</string>
-  <string name="morphe_gms_core_battery_optimization_dialog_summary_off">El diálogo de optimización de batería de MicroG está oculto</string>
-  <string name="morphe_gms_core_battery_optimization_dialog_user_dialog_message">"Si desactivas esta opción, se ocultará el mensaje de optimización de la batería de MicroG.
+  <string name="silva_gms_core_battery_optimization_dialog_title">Diálogo de optimización de la batería</string>
+  <string name="silva_gms_core_battery_optimization_dialog_summary_on">El diálogo de optimización de batería de MicroG está visible</string>
+  <string name="silva_gms_core_battery_optimization_dialog_summary_off">El diálogo de optimización de batería de MicroG está oculto</string>
+  <string name="silva_gms_core_battery_optimization_dialog_user_dialog_message">"Si desactivas esta opción, se ocultará el mensaje de optimización de la batería de MicroG.
 
 Si no se modifican las optimizaciones de la batería, es posible que se produzcan los siguientes problemas:
 • La aplicación puede cerrarse de forma aleatoria

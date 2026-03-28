@@ -1,13 +1,13 @@
-group = "app.morphe"
+group = "app.silva"
 
 patches {
     about {
-        name = "Morphe Patches"
-        description = "Patches for Morphe"
-        source = "git@github.com:MorpheApp/morphe-patches.git"
-        author = "MorpheApp"
+        name = "Silva Patches"
+        description = "Patches for Silva"
+        source = "git@github.com:SilvaTechB/silva-patches.git"
+        author = "SilvaTechB"
         contact = "na"
-        website = "https://morphe.software"
+        website = "https://github.com/SilvaTechB"
         license = "GNU General Public License v3.0, with additional GPL section 7 requirements"
     }
 }
@@ -30,7 +30,7 @@ tasks {
         dependsOn(compileKotlin)
 
         classpath = sourceSets["main"].runtimeClasspath
-        mainClass.set("app.morphe.util.resource.CheckStringResourcesKt")
+        mainClass.set("app.silva.util.resource.CheckStringResourcesKt")
     }
 
     register<JavaExec>("generatePatchesList") {
@@ -39,7 +39,7 @@ tasks {
         dependsOn(build)
 
         classpath = sourceSets["main"].runtimeClasspath
-        mainClass.set("app.morphe.util.PatchListGeneratorKt")
+        mainClass.set("app.silva.util.PatchListGeneratorKt")
     }
     // Used by gradle-semantic-release-plugin.
     publish {

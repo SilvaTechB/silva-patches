@@ -1,0 +1,36 @@
+package app.silva.patches.youtube.layout.captions
+
+import app.morphe.patcher.patch.bytecodePatch
+import app.silva.patches.shared.misc.settings.preference.BasePreference
+import app.silva.patches.shared.misc.settings.preference.PreferenceScreenPreference
+import app.silva.patches.youtube.misc.settings.PreferenceScreen
+import app.silva.patches.youtube.shared.Constants.COMPATIBILITY_YOUTUBE
+
+/**
+ * Caption settings. Used to organize all caption related settings together.
+ */
+internal val settingsMenuCaptionGroup = mutableSetOf<BasePreference>()
+
+@Suppress("unused")
+val captionsPatch = bytecodePatch(
+    name = "Captions",
+    description = "Adds an option to disable captions from being automatically enabled or to set caption cookies.",
+) {
+    dependsOn(
+        autoCaptionsPatch,
+        captionCookiesPatch,
+        transcriptPatch,
+    )
+
+    compatibleWith(COMPATIBILITY_YOUTUBE)
+
+    execute {
+        PreferenceScreen.PLAYER.addPreferences(
+            PreferenceScreenPreference(
+                key = "silva_captions_screen",
+                sorting = PreferenceScreenPreference.Sorting.UNSORTED,
+                preferences = settingsMenuCaptionGroup,
+            ),
+        )
+    }
+}

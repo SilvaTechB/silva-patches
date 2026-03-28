@@ -3,7 +3,7 @@ dependencies {
 }
 
 android {
-    namespace = "app.morphe.extension"
+    namespace = "app.silva.extension"
     compileSdk = 35
 
     defaultConfig {
