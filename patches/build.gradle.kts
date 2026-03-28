@@ -13,6 +13,9 @@ patches {
 }
 
 dependencies {
+    // Patcher library providing bytecode/resource patch context and utilities.
+    implementation(libs.morphe.patcher)
+
     // Used by JsonGenerator.
     implementation(libs.gson)
 

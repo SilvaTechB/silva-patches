@@ -15,6 +15,7 @@ protobuf = "0.9.6"
 protoc = "4.34.0"
 
 [libraries]
+morphe-patcher = { module = "app.morphe:morphe-patcher", version.ref = "morphe-patcher" }
 annotation = { module = "androidx.annotation:annotation", version.ref = "annotation" }
 androidx-core = { module = "androidx.core:core", version.ref = "androidx-core" }
 androidx-javascriptengine = { module = "androidx.javascriptengine:javascriptengine", version.ref = "androidx-javascriptengine" }
