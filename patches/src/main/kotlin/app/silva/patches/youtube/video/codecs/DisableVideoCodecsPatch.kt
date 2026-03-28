@@ -29,7 +29,7 @@ val disableVideoCodecsPatch = bytecodePatch(
          */
         transformInstructionsPatch(
             filterMap = filterMap@{ classDef, _, instruction, instructionIndex ->
-                if (classDef.type.startsWith("Lapp/morphe/")) {
+                if (classDef.type.startsWith("Lapp/silva/")) {
                     return@filterMap null
                 }
 

@@ -77,7 +77,7 @@ internal object NavigationEnumFingerprint : Fingerprint(
     ),
     custom = { _, classDef ->
         // Don't match our own code.
-        !classDef.type.startsWith("Lapp/morphe")
+        !classDef.type.startsWith("Lapp/silva")
     }
 )
 
@@ -136,7 +136,7 @@ internal object ImageEnumConstructorFingerprint : Fingerprint(
     ),
     custom = { _, classDef ->
         // Don't match our extension code.
-        !classDef.type.startsWith("Lapp/morphe/")
+        !classDef.type.startsWith("Lapp/silva/")
     }
 )
 
